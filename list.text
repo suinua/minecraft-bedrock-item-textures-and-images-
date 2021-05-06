@@ -1,0 +1,1235 @@
+最後のulrは先頭に https://www.digminecraft.com/ が付きます
+
+Acacia Button:acacia_button:null:0:mechanism_recipes/images/acacia_button.png
+Acacia Door:acacia_door:430:0:mechanism_recipes/images/acacia_door.png
+Acacia Fence Gate:acacia_fence_gate:187:0:basic_recipes/images/acacia_fence_gate.png
+Acacia Pressure Plate:acacia_pressure_plate:null:0:mechanism_recipes/images/acacia_pressure_plate.png
+Acacia Sign:acacia_sign:null:0:basic_recipes/images/acacia_sign.png
+Acacia Wood Stairs:acacia_stairs:163:0:block_recipes/images/acacia_wood_stairs.png
+Acacia Trapdoor:acacia_trapdoor:null:0:mechanism_recipes/images/acacia_trapdoor.png
+Activator Rails:activator_rail:157:0:transportation_recipes/images/activator_rails.png
+Air:air:0:0:materials/images/air.png
+Allow Block:allow:null:0:basic_recipes/images/allow.png
+Ancient Debris:ancient_debris:null:0:materials/images/ancient_debris.png
+Andesite Stairs:andesite_stairs:null:0:block_recipes/images/andesite_stairs.png
+Anvil:anvil:145:0:decoration_recipes/images/anvil.png
+Slightly Damaged Anvil:anvil:145:4:decoration_recipes/images/slightly_damaged_anvil.png
+Very Damaged Anvil:anvil:145:8:decoration_recipes/images/very_damaged_anvil.png
+Apple:apple:260:0:materials/images/apple.png
+Enchanted Golden Apple:appleenchanted:466:0:food_recipes/images/golden_apple2.png
+Armor Stand:armor_stand:416:0:decoration_recipes/images/armor_stand.png
+Arrow:arrow:262:0:weapon_recipes/images/arrow.png
+Arrow Of Night vision:arrow:262:6:weapon_recipes/images/arrow_night_vision.png
+Arrow Of Night vision:arrow:262:7:weapon_recipes/images/arrow_night_vision.png
+Arrow Of Invisibility:arrow:262:8:weapon_recipes/images/arrow_invisibility.png
+Arrow Of Invisibility:arrow:262:9:weapon_recipes/images/arrow_invisibility.png
+Arrow Of Leaping:arrow:262:10:weapon_recipes/images/arrow_leaping.png
+Arrow Of Leaping:arrow:262:11:weapon_recipes/images/arrow_leaping.png
+Arrow Of Leaping:arrow:262:12:weapon_recipes/images/arrow_leaping.png
+Arrow Of Fire resistance:arrow:262:13:weapon_recipes/images/arrow_fire_resistance.png
+Arrow Of Fire resistance:arrow:262:14:weapon_recipes/images/arrow_fire_resistance.png
+Arrow Of Swiftness:arrow:262:15:weapon_recipes/images/arrow_swiftness.png
+Arrow Of Swiftness:arrow:262:16:weapon_recipes/images/arrow_swiftness.png
+Arrow Of Swiftness:arrow:262:17:weapon_recipes/images/arrow_swiftness.png
+Arrow Of Slowness:arrow:262:18:weapon_recipes/images/arrow_slowness.png
+Arrow Of Slowness:arrow:262:19:weapon_recipes/images/arrow_slowness.png
+Arrow Of Water breathing:arrow:262:20:weapon_recipes/images/arrow_water_breathing.png
+Arrow Of Water breathing:arrow:262:21:weapon_recipes/images/arrow_water_breathing.png
+Arrow Of Healing:arrow:262:22:weapon_recipes/images/arrow_healing.png
+Arrow Of Healing:arrow:262:23:weapon_recipes/images/arrow_healing.png
+Arrow Of Harming:arrow:262:24:weapon_recipes/images/arrow_harming.png
+Arrow Of Harming:arrow:262:25:weapon_recipes/images/arrow_harming.png
+Arrow Of Poison:arrow:262:26:weapon_recipes/images/arrow_poison.png
+Arrow Of Poison:arrow:262:27:weapon_recipes/images/arrow_poison.png
+Arrow Of Poison:arrow:262:28:weapon_recipes/images/arrow_poison.png
+Arrow Of Regeneration:arrow:262:29:weapon_recipes/images/arrow_regeneration.png
+Arrow Of Regeneration:arrow:262:30:weapon_recipes/images/arrow_regeneration.png
+Arrow Of Regeneration:arrow:262:31:weapon_recipes/images/arrow_regeneration.png
+Arrow Of Strength:arrow:262:32:weapon_recipes/images/arrow_strength.png
+Arrow Of Strength:arrow:262:33:weapon_recipes/images/arrow_strength.png
+Arrow Of Strength:arrow:262:34:weapon_recipes/images/arrow_strength.png
+Arrow Of Weakness:arrow:262:35:weapon_recipes/images/arrow_weakness.png
+Arrow Of Weakness:arrow:262:36:weapon_recipes/images/arrow_weakness.png
+Arrow Of Decay:arrow:262:37:weapon_recipes/images/arrow_decay.png
+Arrow Of The Turtle Master:arrow:262:38:weapon_recipes/images/arrow_turtle_master.png
+Arrow Of The Turtle Master:arrow:262:39:weapon_recipes/images/arrow_turtle_master.png
+Arrow Of The Turtle Master:arrow:262:40:weapon_recipes/images/arrow_turtle_master.png
+Arrow Of Slow Falling:arrow:262:41:weapon_recipes/images/arrow_slow_falling.png
+Arrow Of Slow Falling:arrow:262:42:weapon_recipes/images/arrow_slow_falling.png
+Baked Potato:baked_potato:393:0:food_recipes/images/baked_potato.png
+Bamboo:bamboo:null:0:materials/images/bamboo.png
+Black Banner:banner:425:0:decoration_recipes/images/black_banner.png
+Red Banner:banner:425:1:decoration_recipes/images/red_banner.png
+Green Banner:banner:425:2:decoration_recipes/images/green_banner.png
+Brown Banner:banner:425:3:decoration_recipes/images/brown_banner.png
+Blue Banner:banner:425:4:decoration_recipes/images/blue_banner.png
+Purple Banner:banner:425:5:decoration_recipes/images/purple_banner.png
+Cyan Banner:banner:425:6:decoration_recipes/images/cyan_banner.png
+Light Gray Banner:banner:425:7:decoration_recipes/images/light_gray_banner.png
+Gray Banner:banner:425:8:decoration_recipes/images/gray_banner.png
+Pink Banner:banner:425:9:decoration_recipes/images/pink_banner.png
+Lime Banner:banner:425:10:decoration_recipes/images/lime_banner.png
+Yellow Banner:banner:425:11:decoration_recipes/images/yellow_banner.png
+Light Blue Banner:banner:425:12:decoration_recipes/images/light_blue_banner.png
+Magenta Banner:banner:425:13:decoration_recipes/images/magenta_banner.png
+Orange Banner:banner:425:14:decoration_recipes/images/orange_banner.png
+White Banner:banner:425:15:decoration_recipes/images/white_banner.png
+Creeper Charge Banner Pattern:banner_pattern:null:0:decoration_recipes/images/banner_pattern.png
+Skull Charge Banner Pattern:banner_pattern:null:1:decoration_recipes/images/banner_pattern.png
+Flower Charge Banner Pattern:banner_pattern:null:2:decoration_recipes/images/banner_pattern.png
+Thing Banner Pattern:banner_pattern:null:3:decoration_recipes/images/banner_pattern.png
+Field Masoned Banner Pattern:banner_pattern:null:4:decoration_recipes/images/banner_pattern.png
+Bordure Indented Banner Pattern:banner_pattern:null:5:decoration_recipes/images/banner_pattern.png
+Snout Banner Pattern:banner_pattern:null:6:decoration_recipes/images/banner_pattern.png
+Barrel:barrel:null:0:basic_recipes/images/barrel.png
+Barrier:barrier:166:0:materials/images/barrier.png
+Basalt:basalt:null:0:materials/images/basalt.png
+Beacon:beacon:138:0:mechanism_recipes/images/beacon.png
+White Bed:bed:355:0:basic_recipes/images/white_bed.png
+Orange Bed:bed:355:1:basic_recipes/images/orange_bed.png
+Magenta Bed:bed:355:2:basic_recipes/images/magenta_bed.png
+Light Blue Bed:bed:355:3:basic_recipes/images/light_blue_bed.png
+Yellow Bed:bed:355:4:basic_recipes/images/yellow_bed.png
+Lime Bed:bed:355:5:basic_recipes/images/lime_bed.png
+Pink Bed:bed:355:6:basic_recipes/images/pink_bed.png
+Gray Bed:bed:355:7:basic_recipes/images/gray_bed.png
+Light Gray Bed:bed:355:8:basic_recipes/images/light_gray_bed.png
+Cyan Bed:bed:355:9:basic_recipes/images/cyan_bed.png
+Purple Bed:bed:355:10:basic_recipes/images/purple_bed.png
+Blue Bed:bed:355:11:basic_recipes/images/blue_bed.png
+Brown Bed:bed:355:12:basic_recipes/images/brown_bed.png
+Green Bed:bed:355:13:basic_recipes/images/green_bed.png
+Red Bed:bed:355:14:basic_recipes/images/bed.png
+Black Bed:bed:355:15:basic_recipes/images/black_bed.png
+Bedrock:bedrock:7:0:materials/images/bedrock.png
+Bee Nest:bee_nest:null:0:decoration_recipes/images/bee_nest.png
+Raw Beef:beef:363:0:food_recipes/images/raw_beef.png
+Beehive:beehive:null:0:decoration_recipes/images/bee_hive.png
+Beetroot:beetroot:434:0:materials/images/beetroot.png
+Beetroot Seeds:beetroot_seeds:435:0:materials/images/beetroot_seeds.png
+Beetroot Soup:beetroot_soup:436:0:food_recipes/images/beetroot_soup.png
+Bell:bell:null:0:decoration_recipes/images/bell.png
+Birch Button:birch_button:null:0:mechanism_recipes/images/birch_button.png
+Birch Door:birch_door:428:0:mechanism_recipes/images/birch_door.png
+Birch Fence Gate:birch_fence_gate:184:0:basic_recipes/images/birch_fence_gate.png
+Birch Pressure Plate:birch_pressure_plate:null:0:mechanism_recipes/images/birch_pressure_plate.png
+Birch Sign:birch_sign:null:0:basic_recipes/images/birch_sign.png
+Birch Wood Stairs:birch_stairs:135:0:block_recipes/images/birch_wood_stairs.png
+Birch Trapdoor:birch_trapdoor:null:0:mechanism_recipes/images/birch_trapdoor.png
+Black Glazed Terracotta:black_glazed_terracotta:250:0:decoration_recipes/images/black_glazed_terracotta.png
+Blackstone:blackstone:null:0:block_recipes/images/blackstone.png
+Blackstone Slab:blackstone_slab:null:0:block_recipes/images/blackstone_slab.png
+Blackstone Stairs:blackstone_stairs:null:0:block_recipes/images/blackstone_stairs.png
+Blackstone Wall:blackstone_wall:null:0:block_recipes/images/blackstone_wall.png
+Blast Furnace:blast_furnace:null:0:basic_recipes/images/blast_furnace.png
+Blaze Powder:blaze_powder:377:0:brewing_recipes/images/blaze_powder.png
+Blaze Rod:blaze_rod:369:0:materials/images/blaze_rod.png
+Blue Glazed Terracotta:blue_glazed_terracotta:246:0:decoration_recipes/images/blue_glazed_terracotta.png
+Blue Ice:blue_ice:null:0:materials/images/blue_ice.png
+Oak Boat:boat:333:0:transportation_recipes/images/boat.png
+Spruce Boat:boat:444:1:transportation_recipes/images/spruce_boat.png
+Birch Boat:boat:445:2:transportation_recipes/images/birch_boat.png
+Jungle Boat:boat:446:3:transportation_recipes/images/jungle_boat.png
+Acacia Boat:boat:447:4:transportation_recipes/images/acacia_boat.png
+Dark Oak Boat:boat:448:5:transportation_recipes/images/dark_oak_boat.png
+Bone:bone:352:0:materials/images/bone.png
+Bone Block:bone_block:216:0:block_recipes/images/bone_block.png
+Book:book:340:0:basic_recipes/images/book.png
+Bookshelf:bookshelf:47:0:block_recipes/images/bookshelf.png
+Border Block:border_block:null:0:basic_recipes/images/border.png
+Bow:bow:261:0:weapon_recipes/images/bow.png
+Bowl:bowl:281:0:tool_recipes/images/bowl.png
+Bread:bread:297:0:food_recipes/images/bread.png
+Brewing Stand:brewing_stand:379:0:brewing_recipes/images/brewing_stand.png
+Brick:brick:336:0:basic_recipes/images/brick.png
+Bricks:brick_block:45:0:block_recipes/images/bricks.png
+Brick Stairs:brick_stairs:108:0:block_recipes/images/brick_stairs.png
+Brown Glazed Terracotta:brown_glazed_terracotta:247:0:decoration_recipes/images/brown_glazed_terracotta.png
+mushroom:brown_mushroom:39:0:materials/images/mushroom_brown.png
+Light Brown Mushroom Block:brown_mushroom_block:99:0:block_recipes/images/light_brown_mushroom_block.png
+Brown Mushroom Block:brown_mushroom_block:99:1:block_recipes/images/brown_mushroom_block.png
+Mushroom Stem:brown_mushroom_block:null:10:block_recipes/images/gray_mushroom_block.png
+Bucket:bucket:325:0:tool_recipes/images/bucket.png
+Milk:bucket:325:1:food_recipes/images/milk.png
+Bucket of Cod:bucket:325:2:basic_recipes/images/cod_bucket.png
+Bucket of Salmon:bucket:325:3:basic_recipes/images/salmon_bucket.png
+Bucket of Tropical Fish:bucket:325:4:basic_recipes/images/tropical_fish_bucket.png
+Bucket of Pufferfish:bucket:325:5:basic_recipes/images/pufferfish_bucket.png
+Water Bucket:bucket:325:8:basic_recipes/images/water_bucket.png
+Lava Bucket:bucket:325:10:basic_recipes/images/lava_bucket.png
+Cactus:cactus:81:0:materials/images/cactus.png
+Cake:cake:354:0:food_recipes/images/cake.png
+Campfire:campfire:null:0:decoration_recipes/images/campfire.png
+White Carpet:carpet:171:0:decoration_recipes/images/carpet.png
+Orange Carpet:carpet:171:1:decoration_recipes/images/orange_carpet.png
+Magenta Carpet:carpet:171:2:decoration_recipes/images/magenta_carpet.png
+Light Blue Carpet:carpet:171:3:decoration_recipes/images/light_blue_carpet.png
+Yellow Carpet:carpet:171:4:decoration_recipes/images/yellow_carpet.png
+Lime Carpet:carpet:171:5:decoration_recipes/images/lime_carpet.png
+Pink Carpet:carpet:171:6:decoration_recipes/images/pink_carpet.png
+Gray Carpet:carpet:171:7:decoration_recipes/images/gray_carpet.png
+Light Gray Carpet:carpet:171:8:decoration_recipes/images/light_gray_carpet.png
+Cyan Carpet:carpet:171:9:decoration_recipes/images/cyan_carpet.png
+Purple Carpet:carpet:171:10:decoration_recipes/images/purple_carpet.png
+Blue Carpet:carpet:171:11:decoration_recipes/images/blue_carpet.png
+Brown Carpet:carpet:171:12:decoration_recipes/images/brown_carpet.png
+Green Carpet:carpet:171:13:decoration_recipes/images/green_carpet.png
+Red Carpet:carpet:171:14:decoration_recipes/images/red_carpet.png
+Black Carpet:carpet:171:15:decoration_recipes/images/black_carpet.png
+Carrot:carrot:391:0:materials/images/carrot.png
+Carrot on a Stick:carrotonastick:398:0:transportation_recipes/images/carrot_stick.png
+Cartography Table:cartography_table:null:0:basic_recipes/images/cartography_table.png
+Carved Pumpkin:carved_pumpkin:null:0:block_recipes/images/carved_pumpkin.png
+Cauldron:cauldron:380:0:brewing_recipes/images/cauldron.png
+Chain:chain:null:0:decoration_recipes/images/chain.png
+Chain Command Block:chain_command_block:211:0:command_blocks/images/chain_command_block.png
+Chain Boots:chainmail_boots:305:0:armor_recipes/images/chain_boots.png
+Chain Chestplate:chainmail_chestplate:303:0:armor_recipes/images/chain_chestplate.png
+Chain Helmet:chainmail_helmet:302:0:armor_recipes/images/chain_helmet.png
+Chain Leggings:chainmail_leggings:304:0:armor_recipes/images/chain_leggings.png
+Chest:chest:54:0:basic_recipes/images/chest.png
+Minecart with Chest:chest_minecart:342:0:transportation_recipes/images/minecart_with_chest.png
+Raw Chicken:chicken:365:0:food_recipes/images/raw_chicken.png
+Chiseled Nether Bricks:chiseled_nether_bricks:null:0:block_recipes/images/chiseled_nether_bricks.png
+Chiseled Polished Blackstone:chiseled_polished_blackstone:null:0:block_recipes/images/chiseled_polished_blackstone.png
+Chorus Flower:chorus_flower:200:0:materials/images/chorus_flower.png
+Chorus Fruit:chorus_fruit:432:0:materials/images/chorus_fruit.png
+Popped Chorus Fruit:chorus_fruit_popped:433:0:materials/images/popped_chorus_fruit.png
+Chorus Plant:chorus_plant:199:0:block_recipes/images/chorus_plant.png
+Clay Block:clay:82:0:block_recipes/images/clay_block.png
+Clay:clay_ball:337:0:materials/images/clay.png
+Clock:clock:347:0:tool_recipes/images/clock.png
+tropical fish:clownfish:349:0:materials/images/clownfish.png
+Coal:coal:263:0:materials/images/coal.png
+Charcoal:coal:263:1:basic_recipes/images/charcoal.png
+Coal Block:coal_block:173:0:block_recipes/images/coal_block.png
+Coal Ore:coal_ore:16:0:materials/images/coal_ore.png
+Cobblestone:cobblestone:4:0:materials/images/cobblestone.png
+Cobblestone Wall:cobblestone_wall:139:0:block_recipes/images/cobblestone_wall.png
+Mossy Cobblestone Wall:cobblestone_wall:139:1:block_recipes/images/mossy_cobblestone_wall.png
+Granite Wall:cobblestone_wall:null:2:block_recipes/images/granite_wall.png
+Diorite Wall:cobblestone_wall:null:3:block_recipes/images/diorite_wall.png
+Andesite Wall:cobblestone_wall:null:4:block_recipes/images/andesite_wall.png
+Sandstone Wall:cobblestone_wall:null:5:block_recipes/images/sandstone_wall.png
+Brick Wall:cobblestone_wall:null:6:block_recipes/images/brick_wall.png
+Stone Brick Wall:cobblestone_wall:null:7:block_recipes/images/stone_brick_wall.png
+Mossy Stone Brick Wall:cobblestone_wall:null:8:block_recipes/images/mossy_stone_brick_wall.png
+Nether Brick Wall:cobblestone_wall:null:9:block_recipes/images/nether_brick_wall.png
+End Stone Brick Wall:cobblestone_wall:null:10:block_recipes/images/end_stone_brick_wall.png
+Prismarine Wall:cobblestone_wall:null:11:block_recipes/images/prismarine_wall.png
+Red Sandstone Wall:cobblestone_wall:null:12:block_recipes/images/red_sandstone_wall.png
+Red Nether Brick Wall:cobblestone_wall:null:13:block_recipes/images/red_nether_brick_wall.png
+Command Block:command_block:137:0:command_blocks/images/command_block.png
+Minecart with Command Block:command_block_minecart:null:0:transportation_recipes/images/minecart_with_command_block.png
+Redstone Comparator:comparator:404:0:mechanism_recipes/images/redstone_comparator.png
+Compass:compass:345:0:tool_recipes/images/compass.png
+Composter:composter:null:0:basic_recipes/images/composter.png
+White Concrete:concrete:251:0:block_recipes/images/white_concrete.png
+Orange Concrete:concrete:251:1:block_recipes/images/orange_concrete.png
+Magenta Concrete:concrete:251:2:block_recipes/images/magenta_concrete.png
+Light Blue Concrete:concrete:251:3:block_recipes/images/light_blue_concrete.png
+Yellow Concrete:concrete:251:4:block_recipes/images/yellow_concrete.png
+Lime Concrete:concrete:251:5:block_recipes/images/lime_concrete.png
+Pink Concrete:concrete:251:6:block_recipes/images/pink_concrete.png
+Gray Concrete:concrete:251:7:block_recipes/images/gray_concrete.png
+Light Gray Concrete:concrete:251:8:block_recipes/images/light_gray_concrete.png
+Cyan Concrete:concrete:251:9:block_recipes/images/cyan_concrete.png
+Purple Concrete:concrete:251:10:block_recipes/images/purple_concrete.png
+Blue Concrete:concrete:251:11:block_recipes/images/blue_concrete.png
+Brown Concrete:concrete:251:12:block_recipes/images/brown_concrete.png
+Green Concrete:concrete:251:13:block_recipes/images/green_concrete.png
+Red Concrete:concrete:251:14:block_recipes/images/red_concrete.png
+Black Concrete:concrete:251:15:block_recipes/images/black_concrete.png
+White Concrete Powder:concretepowder:252:0:block_recipes/images/white_concrete_powder.png
+Orange Concrete Powder:concretepowder:252:1:block_recipes/images/orange_concrete_powder.png
+Magenta Concrete Powder:concretepowder:252:2:block_recipes/images/magenta_concrete_powder.png
+Light Blue Concrete Powder:concretepowder:252:3:block_recipes/images/light_blue_concrete_powder.png
+Yellow Concrete Powder:concretepowder:252:4:block_recipes/images/yellow_concrete_powder.png
+Lime Concrete Powder:concretepowder:252:5:block_recipes/images/lime_concrete_powder.png
+Pink Concrete Powder:concretepowder:252:6:block_recipes/images/pink_concrete_powder.png
+Gray Concrete Powder:concretepowder:252:7:block_recipes/images/gray_concrete_powder.png
+Light Gray Concrete Powder:concretepowder:252:8:block_recipes/images/light_gray_concrete_powder.png
+Cyan Concrete Powder:concretepowder:252:9:block_recipes/images/cyan_concrete_powder.png
+Purple Concrete Powder:concretepowder:252:10:block_recipes/images/purple_concrete_powder.png
+Blue Concrete Powder:concretepowder:252:11:block_recipes/images/blue_concrete_powder.png
+Brown Concrete Powder:concretepowder:252:12:block_recipes/images/brown_concrete_powder.png
+Green Concrete Powder:concretepowder:252:13:block_recipes/images/green_concrete_powder.png
+Red Concrete Powder:concretepowder:252:14:block_recipes/images/red_concrete_powder.png
+Black Concrete Powder:concretepowder:252:15:block_recipes/images/black_concrete_powder.png
+Conduit:conduit:null:0:materials/images/conduit.png
+Steak:cooked_beef:364:0:food_recipes/images/steak.png
+Cooked Chicken:cooked_chicken:366:0:food_recipes/images/cooked_chicken.png
+Cooked Cod:cooked_fish:350:0:food_recipes/images/cooked_cod.png
+Cooked Porkchop:cooked_porkchop:320:0:food_recipes/images/cooked_porkchop.png
+Cooked Rabbit:cooked_rabbit:412:0:food_recipes/images/cooked_rabbit.png
+Cooked Salmon:cooked_salmon:350:0:food_recipes/images/cooked_salmon.png
+Cookie:cookie:357:0:food_recipes/images/cookie.png
+Tube Coral:coral:null:0:materials/images/blue_coral_plant.png
+Brain Coral:coral:null:1:materials/images/pink_coral_plant.png
+Bubble Coral:coral:null:2:materials/images/purple_coral_plant.png
+Fire Coral:coral:null:3:materials/images/red_coral_plant.png
+Horn Coral:coral:null:4:materials/images/yellow_coral_plant.png
+Tube Coral Block:coral_block:null:0:materials/images/blue_coral.png
+Brain Coral Block:coral_block:null:1:materials/images/pink_coral.png
+Bubble Coral Block:coral_block:null:2:materials/images/purple_coral.png
+Fire Coral Block:coral_block:null:3:materials/images/red_coral.png
+Horn Coral Block:coral_block:null:4:materials/images/yellow_coral.png
+Dead Tube Coral Block:coral_block:null:8:materials/images/dead_blue_coral.png
+Dead Brain Coral Block:coral_block:null:9:materials/images/dead_pink_coral.png
+Dead Bubble Coral Block:coral_block:null:10:materials/images/dead_purple_coral.png
+Dead Fire Coral Block:coral_block::11:materials/images/dead_red_coral.png
+Dead Horn Coral Block:coral_block:null:12:materials/images/dead_yellow_coral.png
+Tube Coral Fan:coral_fan:null:0:materials/images/blue_coral_fan.png
+Brain Coral Fan:coral_fan:null:1:materials/images/pink_coral_fan.png
+Bubble Coral Fan:coral_fan:null:2:materials/images/purple_coral_fan.png
+Fire Coral Fan:coral_fan:null:3:materials/images/red_coral_fan.png
+Horn Coral Fan:coral_fan:null:4:materials/images/yellow_coral_fan.png
+Dead Tube Coral Fan:coral_fan_dead:null:0:materials/images/dead_blue_coral_fan.png
+Dead Brain Coral Fan:coral_fan_dead:null:1:materials/images/dead_pink_coral_fan.png
+Dead Bubble Coral Fan:coral_fan_dead:null:2:materials/images/dead_purple_coral_fan.png
+Dead Fire Coral Fan:coral_fan_dead:null:3:materials/images/dead_red_coral_fan.png
+Dead Horn Coral Fan:coral_fan_dead:null:4:materials/images/dead_yellow_coral_fan.png
+Cracked Nether Bricks:cracked_nether_bricks:null:0:block_recipes/images/cracked_nether_bricks.png
+Cracked Polished Blackstone Bricks:cracked_polished_blackstone_bricks:null:0:block_recipes/images/cracked_polished_blackstone_bricks.png
+Crafting Table:crafting_table:58:0:basic_recipes/images/crafting_table.png
+Crimson Button:crimson_button:null:0:mechanism_recipes/images/crimson_button.png
+Crimson Door:crimson_door:null:0:mechanism_recipes/images/crimson_door.png
+Crimson Fence:crimson_fence:null:0:basic_recipes/images/crimson_fence.png
+Crimson Fence Gate:crimson_fence_gate:null:0:basic_recipes/images/crimson_fence_gate.png
+Crimson Fungus:crimson_fungus:null:0:materials/images/crimson_fungi.png
+Crimson Hyphae:crimson_hyphae:null:0:block_recipes/images/crimson_hyphae.png
+Crimson Nylium:crimson_nylium:null:0:materials/images/crimson_nylium.png
+Crimson Planks:crimson_planks:null:0:basic_recipes/images/crimson_planks.png
+Crimson Pressure Plate:crimson_pressure_plate:null:0:mechanism_recipes/images/crimson_pressure_plate.png
+Crimson Roots:crimson_roots:null:0:materials/images/crimson_roots.png
+Crimson Sign:crimson_sign:null:0:basic_recipes/images/crimson_sign.png
+Crimson Slab:crimson_slab:null:0:block_recipes/images/crimson_slab.png
+Crimson Stairs:crimson_stairs:null:0:block_recipes/images/crimson_stairs.png
+Crimson Stem:crimson_stem:null:0:materials/images/crimson_stem.png
+Crimson Trapdoor:crimson_trapdoor:null:0:mechanism_recipes/images/crimson_trapdoor.png
+Crossbow:crossbow:null:0:weapon_recipes/images/crossbow.png
+Crying Obsidian:crying_obsidian:null:0:block_recipes/images/crying_obsidian.png
+Cyan Glazed Terracotta:cyan_glazed_terracotta:244:0:decoration_recipes/images/cyan_glazed_terracotta.png
+Dark Oak Button:dark_oak_button:null:0:mechanism_recipes/images/dark_oak_button.png
+Dark Oak Door:dark_oak_door:431:0:mechanism_recipes/images/dark_oak_door.png
+Dark Oak Fence Gate:dark_oak_fence_gate:186:0:basic_recipes/images/dark_oak_fence_gate.png
+Dark Oak Pressure Plate:dark_oak_pressure_plate:null:0:mechanism_recipes/images/dark_oak_pressure_plate.png
+Dark Oak Wood Stairs:dark_oak_stairs:164:0:block_recipes/images/dark_oak_wood_stairs.png
+Dark Oak Trapdoor:dark_oak_trapdoor:null:0:mechanism_recipes/images/dark_oak_trapdoor.png
+Dark Prismarine Stairs:dark_prismarine_stairs:null:0:block_recipes/images/dark_prismarine_stairs.png
+Dark Oak Sign:darkoak_sign:null:0:basic_recipes/images/dark_oak_sign.png
+Daylight Sensor:daylight_detector:151:0:mechanism_recipes/images/daylight_sensor.png
+Dead Bush:deadbush:32:0:materials/images/dead_bush.png
+Deny Block:deny:null:0:basic_recipes/images/deny.png
+Detector Rails:detector_rail:28:0:transportation_recipes/images/detector_rails.png
+Diamond:diamond:264:0:materials/images/diamond.png
+Diamond Axe:diamond_axe:279:0:tool_recipes/images/diamond_axe.png
+Diamond Block:diamond_block:57:0:block_recipes/images/diamond_block.png
+Diamond Boots:diamond_boots:313:0:armor_recipes/images/diamond_boots.png
+Diamond Chestplate:diamond_chestplate:311:0:armor_recipes/images/diamond_chestplate.png
+Diamond Helmet:diamond_helmet:310:0:armor_recipes/images/diamond_helmet.png
+Diamond Hoe:diamond_hoe:293:0:tool_recipes/images/diamond_hoe.png
+Diamond Leggings:diamond_leggings:312:0:armor_recipes/images/diamond_leggings.png
+Diamond Ore:diamond_ore:56:0:materials/images/diamond_ore.png
+Diamond Pickaxe:diamond_pickaxe:278:0:tool_recipes/images/diamond_pickaxe.png
+Diamond Shovel:diamond_shovel:277:0:tool_recipes/images/diamond_shovel.png
+Diamond Sword:diamond_sword:276:0:weapon_recipes/images/diamond_sword.png
+Diorite Stairs:diorite_stairs:null:0:block_recipes/images/diorite_stairs.png
+Dirt:dirt:3:0:materials/images/dirt.png
+Coarse Dirt:dirt:3:1:materials/images/coarse_dirt.png
+Dispenser:dispenser:23:0:basic_recipes/images/dispenser.png
+Sunflower:double_plant:175:0:materials/images/sunflower.png
+Lilac:double_plant:175:1:materials/images/lilac.png
+Double Tallgrass:double_plant:175:2:materials/images/double_tallgrass.png
+Large Fern:double_plant:175:3:materials/images/large_fern.png
+Rose Bush:double_plant:175:4:materials/images/rose_bush.png
+Peony:double_plant:175:5:materials/images/peony.png
+Dragon's Breath:dragon_breath:437:0:brewing_recipes/images/dragons_breath.png
+Dragon Egg:dragon_egg:122:0:materials/images/dragon_egg.png
+Dried Kelp:dried_kelp:null:0:food_recipes/images/dried_kelp.png
+Dried Kelp Block:dried_kelp_block:null:0:block_recipes/images/dried_kelp_block.png
+Dropper:dropper:158:0:basic_recipes/images/dropper.png
+Ink Sac:dye:351:0:materials/images/ink_sac.png
+Red Dye:dye:351:1:dye_recipes/images/rose_red.png
+Green Dye:dye:351:2:dye_recipes/images/cactus_green.png
+Cocoa Beans:dye:351:3:materials/images/cocoa_beans.png
+Lapis Lazuli:dye:351:4:materials/images/lapis_lazuli.png
+Purple Dye:dye:351:5:dye_recipes/images/purple_dye.png
+Cyan Dye:dye:351:6:dye_recipes/images/cyan_dye.png
+Light Gray Dye:dye:351:7:dye_recipes/images/light_gray_dye.png
+Gray Dye:dye:351:8:dye_recipes/images/gray_dye.png
+Pink Dye:dye:351:9:dye_recipes/images/pink_dye.png
+Lime Dye:dye:351:10:dye_recipes/images/lime_dye.png
+Yellow Dye:dye:351:11:dye_recipes/images/dandelion_yellow.png
+Light Blue Dye:dye:351:12:dye_recipes/images/light_blue_dye.png
+Magenta Dye:dye:351:13:dye_recipes/images/magenta_dye.png
+Orange Dye:dye:351:14:dye_recipes/images/orange_dye.png
+Bone Meal:dye:351:15:dye_recipes/images/bone_meal.png
+Black Dye:dye:null:16:dye_recipes/images/black_dye.png
+Brown Dye:dye:null:17:dye_recipes/images/brown_dye.png
+Blue Dye:dye:null:18:dye_recipes/images/blue_dye.png
+White Dye:dye:null:19:dye_recipes/images/white_dye.png
+Egg:egg:344:0:food_recipes/images/egg.png
+Unknown Element:element_0:null:0:chemistry_elements/images/unknown.png
+Hydrogen:element_1:null:0:chemistry_elements/images/hydrogen.png
+Neon:element_10:null:0:chemistry_elements/images/neon.png
+Fermium:element_100:null:0:chemistry_elements/images/fermium.png
+Mendelevium:element_101:null:0:chemistry_elements/images/mendelevium.png
+Nobelium:element_102:null:0:chemistry_elements/images/nobelium.png
+Lawrencium:element_103:null:0:chemistry_elements/images/lawrencium.png
+Rutherfordium:element_104:null:0:chemistry_elements/images/rutherfordium.png
+Dubnium:element_105:null:0:chemistry_elements/images/dubnium.png
+Seaborgium:element_106:null:0:chemistry_elements/images/seaborgium.png
+Bohrium:element_107:null:0:chemistry_elements/images/bohrium.png
+Hassium:element_108:null:0:chemistry_elements/images/hassium.png
+Meitnerium:element_109:null:0:chemistry_elements/images/meitnerium.png
+Sodium:element_11:null:0:chemistry_elements/images/sodium.png
+Darmstadtium:element_110:null:0:chemistry_elements/images/darmstadtium.png
+Roentgenium:element_111:null:0:chemistry_elements/images/roentgenium.png
+Copernicium:element_112:null:0:chemistry_elements/images/copernicium.png
+Nihonium:element_113:null:0:chemistry_elements/images/nihonium.png
+Flerovium:element_114:null:0:chemistry_elements/images/flerovium.png
+Moscovium:element_115:null:0:chemistry_elements/images/moscovium.png
+Livermorium:element_116:null:0:chemistry_elements/images/livermorium.png
+Tennessine:element_117:null:0:chemistry_elements/images/tennessine.png
+Oganesson:element_118:null:0:chemistry_elements/images/oganesson.png
+Magnesium:element_12:null:0:chemistry_elements/images/magnesium.png
+Aluminum:element_13:null:0:chemistry_elements/images/aluminum.png
+Silicon:element_14:null:0:chemistry_elements/images/silicon.png
+Phosphorus:element_15:null:0:chemistry_elements/images/phosphorus.png
+Sulphur:element_16:null:0:chemistry_elements/images/sulphur.png
+Chlorine:element_17:null:0:chemistry_elements/images/chlorine.png
+Argon:element_18:null:0:chemistry_elements/images/argon.png
+Potassium:element_19:null:0:chemistry_elements/images/potassium.png
+Helium:element_2:null:0:chemistry_elements/images/helium.png
+Calcium:element_20:null:0:chemistry_elements/images/calcium.png
+Scandium:element_21:null:0:chemistry_elements/images/scandium.png
+Titanium:element_22:null:0:chemistry_elements/images/titanium.png
+Vanadium:element_23:null:0:chemistry_elements/images/vanadium.png
+Chromium:element_24:null:0:chemistry_elements/images/chromium.png
+Manganese:element_25:null:0:chemistry_elements/images/manganese.png
+Iron:element_26:null:0:chemistry_elements/images/iron.png
+Cobalt:element_27:null:0:chemistry_elements/images/cobalt.png
+Nickel:element_28:null:0:chemistry_elements/images/nickel.png
+Copper:element_29:null:0:chemistry_elements/images/copper.png
+Lithium:element_3:null:0:chemistry_elements/images/lithium.png
+Zinc:element_30:null:0:chemistry_elements/images/zinc.png
+Gallium:element_31:null:0:chemistry_elements/images/gallium.png
+Germanium:element_32:null:0:chemistry_elements/images/germanium.png
+Arsenic:element_33:null:0:chemistry_elements/images/arsenic.png
+Selenium:element_34:null:0:chemistry_elements/images/selenium.png
+Bromine:element_35:null:0:chemistry_elements/images/bromine.png
+Krypton:element_36:null:0:chemistry_elements/images/krypton.png
+Rubidium:element_37:null:0:chemistry_elements/images/rubidium.png
+Strontium:element_38:null:0:chemistry_elements/images/strontium.png
+Yttrium:element_39:null:0:chemistry_elements/images/yttrium.png
+Beryllium:element_4:null:0:chemistry_elements/images/beryllium.png
+Zirconium:element_40:null:0:chemistry_elements/images/zirconium.png
+Niobium:element_41:null:0:chemistry_elements/images/niobium.png
+Molybdenum:element_42:null:0:chemistry_elements/images/molybdenum.png
+Technetium:element_43:null:0:chemistry_elements/images/technetium.png
+Ruthenium:element_44:null:0:chemistry_elements/images/ruthenium.png
+Rhodium:element_45:null:0:chemistry_elements/images/rhodium.png
+Palladium:element_46:null:0:chemistry_elements/images/palladium.png
+Silver:element_47:null:0:chemistry_elements/images/silver.png
+Cadmium:element_48:null:0:chemistry_elements/images/cadmium.png
+Indium:element_49:null:0:chemistry_elements/images/indium.png
+Boron:element_5:null:0:chemistry_elements/images/boron.png
+Tin:element_50:null:0:chemistry_elements/images/tin.png
+Antimony:element_51:null:0:chemistry_elements/images/antimony.png
+Tellurium:element_52:null:0:chemistry_elements/images/tellurium.png
+Iodine:element_53:null:0:chemistry_elements/images/iodine.png
+Xenon:element_54:null:0:chemistry_elements/images/xenon.png
+Cesium:element_55:null:0:chemistry_elements/images/cesium.png
+Barium:element_56:null:0:chemistry_elements/images/barium.png
+Lanthanum:element_57:null:0:chemistry_elements/images/lanthanum.png
+Cerium:element_58:null:0:chemistry_elements/images/cerium.png
+Praseodymium:element_59:null:0:chemistry_elements/images/praseodymium.png
+Carbon:element_6:null:0:chemistry_elements/images/carbon.png
+Neodymium:element_60:null:0:chemistry_elements/images/neodymium.png
+Promethium:element_61:null:0:chemistry_elements/images/promethium.png
+Samarium:element_62:null:0:chemistry_elements/images/samarium.png
+Europium:element_63:null:0:chemistry_elements/images/europium.png
+Gadolinium:element_64:null:0:chemistry_elements/images/gadolinium.png
+Terbium:element_65:null:0:chemistry_elements/images/terbium.png
+Dysprosium:element_66:null:0:chemistry_elements/images/dysprosium.png
+Holmium:element_67:null:0:chemistry_elements/images/holmium.png
+Erbium:element_68:null:0:chemistry_elements/images/erbium.png
+Thulium:element_69:null:0:chemistry_elements/images/thulium.png
+Nitrogen:element_7:null:0:chemistry_elements/images/nitrogen.png
+Ytterbium:element_70:null:0:chemistry_elements/images/ytterbium.png
+Lutetium:element_71:null:0:chemistry_elements/images/lutetium.png
+Hafnium:element_72:null:0:chemistry_elements/images/hafnium.png
+Tantalum:element_73:null:0:chemistry_elements/images/tantalum.png
+Tungsten:element_74:null:0:chemistry_elements/images/tungsten.png
+Rhenium:element_75:null:0:chemistry_elements/images/rhenium.png
+Osmium:element_76:null:0:chemistry_elements/images/osmium.png
+Iridium:element_77:null:0:chemistry_elements/images/iridium.png
+Platinum:element_78:null:0:chemistry_elements/images/platinum.png
+Gold:element_79:null:0:chemistry_elements/images/gold.png
+Oxygen:element_8:null:0:chemistry_elements/images/oxygen.png
+Mercury:element_80:null:0:chemistry_elements/images/mercury.png
+Thallium:element_81:null:0:chemistry_elements/images/thallium.png
+Lead:element_82:null:0:chemistry_elements/images/lead.png
+Bismuth:element_83:null:0:chemistry_elements/images/bismuth.png
+Polonium:element_84:null:0:chemistry_elements/images/polonium.png
+Astatine:element_85:null:0:chemistry_elements/images/astatine.png
+Radon:element_86:null:0:chemistry_elements/images/radon.png
+Francium:element_87:null:0:chemistry_elements/images/francium.png
+Radium:element_88:null:0:chemistry_elements/images/radium.png
+Actinium:element_89:null:0:chemistry_elements/images/actinium.png
+Fluorine:element_9:null:0:chemistry_elements/images/fluorine.png
+Thorium:element_90:null:0:chemistry_elements/images/thorium.png
+Protactinium:element_91:null:0:chemistry_elements/images/protactinium.png
+Uranium:element_92:null:0:chemistry_elements/images/uranium.png
+Neptunium:element_93:null:0:chemistry_elements/images/neptunium.png
+Plutonium:element_94:null:0:chemistry_elements/images/plutonium.png
+Americium:element_95:null:0:chemistry_elements/images/americium.png
+Curium:element_96:null:0:chemistry_elements/images/curium.png
+Berkelium:element_97:null:0:chemistry_elements/images/berkelium.png
+Californium:element_98:null:0:chemistry_elements/images/californium.png
+Einsteinium:element_99:null:0:chemistry_elements/images/einsteinium.png
+Elytra:elytra:443:0:transportation_recipes/images/elytra.png
+Emerald:emerald:388:0:materials/images/emerald.png
+Emerald Block:emerald_block:133:0:block_recipes/images/emerald_block.png
+Emerald Ore:emerald_ore:129:0:materials/images/emerald_ore.png
+Map:emptymap:395:0:basic_recipes/images/map.png
+Enchanted Book:enchanted_book:403:0:basic_recipes/images/enchanted_book.png
+Enchanting Table:enchanting_table:116:0:basic_recipes/images/enchantment_table.png
+End Stone Brick Stairs:end_brick_stairs:null:0:block_recipes/images/end_stone_brick_stairs.png
+End Stone Bricks:end_bricks:206:0:block_recipes/images/end_stone_bricks.png
+End Crystal:end_crystal:426:0:materials/images/end_crystal.png
+End Portal Frame:end_portal_frame:120:0:basic_recipes/images/end_portal.png
+End Rod:end_rod:198:0:materials/images/end_rod.png
+End Stone:end_stone:121:0:materials/images/end_stone.png
+Ender Chest:ender_chest:130:0:basic_recipes/images/ender_chest.png
+Eye of Ender:ender_eye:381:0:basic_recipes/images/eye_ender.png
+Ender Pearl:ender_pearl:368:0:materials/images/ender_pearl.png
+Bottle o'Enchanting:experience_bottle:384:0:materials/images/bottle_o_enchanting.png
+Feather:feather:288:0:mobs/images/feather.png
+Oak Fence:fence:85:0:basic_recipes/images/oak_fence.png
+Spruce Fence:fence:85:1:basic_recipes/images/spruce_fence.png
+Birch Fence:fence:85:2:basic_recipes/images/birch_fence.png
+Jungle Fence:fence:85:3:basic_recipes/images/jungle_fence.png
+Acacia Fence:fence:85:4:basic_recipes/images/acacia_fence.png
+Dark Oak Fence:fence:85:5:basic_recipes/images/dark_oak_fence.png
+Oak Fence Gate:fence_gate:107:0:basic_recipes/images/oak_fence_gate.png
+Fermented Spider Eye:fermented_spider_eye:376:0:brewing_recipes/images/fermented_spider_eye.png
+Fire Charge:fireball:385:0:firework_recipes/images/fire_charge.png
+Firework Rocket:fireworks:401:0:firework_recipes/images/firework_rocket.png
+Firework Star:fireworkscharge:402:0:firework_recipes/images/firework_star.png
+Raw Cod:fish:349:0:materials/images/raw_cod.png
+Fishing Rod:fishing_rod:346:0:tool_recipes/images/fishing_rod.png
+Fletching Table:fletching_table:null:0:basic_recipes/images/fletching_table.png
+Flint:flint:318:0:materials/images/flint.png
+Flint and Steel:flint_and_steel:259:0:tool_recipes/images/flint_and_steel.png
+Flower Pot:flower_pot:390:0:decoration_recipes/images/flower_pot.png
+Item Frame:frame:389:0:decoration_recipes/images/item_frame.png
+Furnace:furnace:61:0:basic_recipes/images/furnace.png
+Ghast Tear:ghast_tear:370:0:materials/images/ghast_tear.png
+Gilded Blackstone:gilded_blackstone:null:0:block_recipes/images/gilded_blackstone.png
+Glass:glass:20:0:block_recipes/images/glass.png
+Glass Bottle:glass_bottle:374:0:brewing_recipes/images/glass_bottle.png
+Glass Pane:glass_pane:102:0:decoration_recipes/images/glass_pane.png
+Glowstone:glowstone:89:0:block_recipes/images/glowstone.png
+Glowstone Dust:glowstone_dust:348:0:materials/images/glowstone_dust.png
+Gold Block:gold_block:41:0:block_recipes/images/gold_block.png
+Gold Ingot:gold_ingot:266:0:basic_recipes/images/gold_ingot.png
+Gold Nugget:gold_nugget:371:0:basic_recipes/images/gold_nugget.png
+Gold Ore:gold_ore:14:0:materials/images/gold_ore.png
+Golden Apple:golden_apple:322:0:food_recipes/images/golden_apple.png
+Golden Axe:golden_axe:286:0:tool_recipes/images/golden_axe.png
+Golden Boots:golden_boots:317:0:armor_recipes/images/golden_boots.png
+Golden Carrot:golden_carrot:396:0:food_recipes/images/golden_carrot.png
+Golden Chestplate:golden_chestplate:315:0:armor_recipes/images/golden_chestplate.png
+Golden Helmet:golden_helmet:314:0:armor_recipes/images/golden_helmet.png
+Golden Hoe:golden_hoe:294:0:tool_recipes/images/golden_hoe.png
+Golden Leggings:golden_leggings:316:0:armor_recipes/images/golden_leggings.png
+Golden Pickaxe:golden_pickaxe:285:0:tool_recipes/images/golden_pickaxe.png
+Powered Rails:golden_rail:27:0:transportation_recipes/images/powered_rails.png
+Golden Shovel:golden_shovel:284:0:tool_recipes/images/golden_shovel.png
+Golden Sword:golden_sword:283:0:weapon_recipes/images/golden_sword.png
+Granite Stairs:granite_stairs:null:0:block_recipes/images/granite_stairs.png
+Grass Block:grass:2:0:materials/images/grass_block.png
+Grass Path:grass_path:208:0:block_recipes/images/grass_path.png
+Gravel:gravel:13:0:materials/images/gravel.png
+Gray Glazed Terracotta:gray_glazed_terracotta:242:0:decoration_recipes/images/gray_glazed_terracotta.png
+Green Glazed Terracotta:green_glazed_terracotta:248:0:decoration_recipes/images/green_glazed_terracotta.png
+Grindstone:grindstone:null:0:basic_recipes/images/grindstone.png
+Gunpowder:gunpowder:289:0:materials/images/gunpowder.png
+Terracotta:hardened_clay:172:0:block_recipes/images/hardened_clay.png
+Hay Bale:hay_block:170:0:block_recipes/images/hay_bale.png
+Heart of the Sea:heart_of_the_sea:null:0:materials/images/heart_of_sea.png
+Heavy Weighted Pressure Plate:heavy_weighted_pressure_plate:148:0:mechanism_recipes/images/heavy_weighted_pressure_plate.png
+Honey Block:honey_block:null:0:block_recipes/images/honey_block.png
+Honey Bottle:honey_bottle:null:0:food_recipes/images/honey_bottle.png
+Honeycomb:honeycomb:null:0:materials/images/honeycomb.png
+Honeycomb Block:honeycomb_block:null:0:block_recipes/images/honeycomb_block.png
+Hopper:hopper:154:0:basic_recipes/images/hopper.png
+Minecart with Hopper:hopper_minecart:408:0:transportation_recipes/images/minecart_with_hopper.png
+Diamond Horse Armor:horsearmordiamond:419:0:armor_recipes/images/diamond_horse_armor.png
+Gold Horse Armor:horsearmorgold:418:0:armor_recipes/images/golden_horse_armor.png
+Iron Horse Armor:horsearmoriron:417:0:armor_recipes/images/iron_horse_armor.png
+Leather Horse Armor:horsearmorleather:416:0:armor_recipes/images/leather_horse_armor.png
+Ice:ice:79:0:materials/images/ice.png
+Iron Axe:iron_axe:258:0:tool_recipes/images/iron_axe.png
+Iron Bars:iron_bars:101:0:decoration_recipes/images/iron_bars.png
+Iron Block:iron_block:42:0:block_recipes/images/iron_block.png
+Iron Boots:iron_boots:309:0:armor_recipes/images/iron_boots.png
+Iron Chestplate:iron_chestplate:307:0:armor_recipes/images/iron_chestplate.png
+Iron Door:iron_door:330:0:mechanism_recipes/images/iron_door.png
+Iron Helmet:iron_helmet:306:0:armor_recipes/images/iron_helmet.png
+Iron Hoe:iron_hoe:292:0:tool_recipes/images/iron_hoe.png
+Iron Ingot:iron_ingot:265:0:basic_recipes/images/iron_ingot.png
+Iron Leggings:iron_leggings:308:0:armor_recipes/images/iron_leggings.png
+Iron Nugget:iron_nugget:452:0:basic_recipes/images/iron_nugget.png
+Iron Ore:iron_ore:15:0:materials/images/iron_ore.png
+Iron Pickaxe:iron_pickaxe:257:0:tool_recipes/images/iron_pickaxe.png
+Iron Shovel:iron_shovel:256:0:tool_recipes/images/iron_shovel.png
+Iron Sword:iron_sword:267:0:weapon_recipes/images/iron_sword.png
+Iron Trapdoor:iron_trapdoor:167:0:mechanism_recipes/images/iron_trapdoor.png
+Jukebox:jukebox:84:0:decoration_recipes/images/jukebox.png
+Jungle Button:jungle_button:null:0:mechanism_recipes/images/jungle_button.png
+Jungle Door:jungle_door:429:0:mechanism_recipes/images/jungle_door.png
+Jungle Fence Gate:jungle_fence_gate:185:0:basic_recipes/images/jungle_fence_gate.png
+Jungle Pressure Plate:jungle_pressure_plate:null:0:mechanism_recipes/images/jungle_pressure_plate.png
+Jungle Sign:jungle_sign:null:0:basic_recipes/images/jungle_sign.png
+Jungle Wood Stairs:jungle_stairs:136:0:block_recipes/images/jungle_wood_stairs.png
+Jungle Trapdoor:jungle_trapdoor:null:0:mechanism_recipes/images/jungle_trapdoor.png
+Kelp:kelp:null:0:materials/images/kelp.png
+Ladder:ladder:65:0:basic_recipes/images/ladder.png
+Lantern:lantern:null:0:decoration_recipes/images/lantern.png
+Lapis Lazuli Block:lapis_block:22:0:block_recipes/images/lapis_lazuli_block.png
+Lapis Lazuli Ore:lapis_ore:21:0:materials/images/lapis_lazuli_ore.png
+Lava:lava:null:0:materials/images/lava.png
+Lead:lead:420:0:tool_recipes/images/lead.png
+Leather:leather:334:0:mobs/images/leather.png
+Leather Boots:leather_boots:301:0:armor_recipes/images/leather_boots.png
+Leather Tunic:leather_chestplate:299:0:armor_recipes/images/leather_tunic.png
+Leather Cap:leather_helmet:298:0:armor_recipes/images/leather_cap.png
+Leather Pants:leather_leggings:300:0:armor_recipes/images/leather_leggings.png
+Oak Leaves:leaves:18:0:materials/images/oak_leaves.png
+Spruce Leaves:leaves:18:1:materials/images/spruce_leaves.png
+Birch Leaves:leaves:18:2:materials/images/birch_leaves.png
+Jungle Leaves:leaves:18:3:materials/images/jungle_leaves.png
+Acacia Leaves:leaves2:161:0:materials/images/acacia_leaves.png
+Dark Oak Leaves:leaves2:161:1:materials/images/dark_oak_leaves.png
+Lecturn:lectern:null:0:basic_recipes/images/lectern.png
+Lever:lever:69:0:mechanism_recipes/images/lever.png
+Light Blue Glazed Terracotta:light_blue_glazed_terracotta:238:0:decoration_recipes/images/light_blue_glazed_terracotta.png
+Light Weighted Pressure Plate:light_weighted_pressure_plate:147:0:mechanism_recipes/images/light_weighted_pressure_plate.png
+Lime Glazed Terracotta:lime_glazed_terracotta:240:0:decoration_recipes/images/lime_glazed_terracotta.png
+Lingering Poion Of Night vision:lingering_potion:441:5:brewing_recipes/images/lingering_potion_night_vision.png
+Lingering Poion Of Night vision:lingering_potion:441:6:brewing_recipes/images/lingering_potion_night_vision.png
+Lingering Poion Of Invisibility:lingering_potion:441:7:brewing_recipes/images/lingering_potion_invisibility.png
+Lingering Poion Of Invisibility:lingering_potion:441:8:brewing_recipes/images/lingering_potion_invisibility.png
+Lingering Poion Of Leaping:lingering_potion:441:9:brewing_recipes/images/lingering_potion_leaping.png
+Lingering Poion Of Leaping:lingering_potion:441:10:brewing_recipes/images/lingering_potion_leaping.png
+Lingering Poion Of Leaping:lingering_potion:441:11:brewing_recipes/images/lingering_potion_leaping.png
+Lingering Poion Of Fire resistance:lingering_potion:441:12:brewing_recipes/images/lingering_potion_fire_resistance.png
+Lingering Poion Of Fire resistance:lingering_potion:441:13:brewing_recipes/images/lingering_potion_fire_resistance.png
+Lingering Poion Of Swiftness:lingering_potion:441:14:brewing_recipes/images/lingering_potion_swiftness.png
+Lingering Poion Of Swiftness:lingering_potion:441:15:brewing_recipes/images/lingering_potion_swiftness.png
+Lingering Poion Of Swiftness:lingering_potion:441:16:brewing_recipes/images/lingering_potion_swiftness.png
+Lingering Poion Of Slowness:lingering_potion:441:17:brewing_recipes/images/lingering_potion_slowness.png
+Lingering Poion Of Slowness:lingering_potion:441:18:brewing_recipes/images/lingering_potion_slowness.png
+Lingering Poion Of Water breathing:lingering_potion:441:19:brewing_recipes/images/lingering_potion_water_breathing.png
+Lingering Poion Of Water breathing:lingering_potion:441:20:brewing_recipes/images/lingering_potion_water_breathing.png
+Lingering Poion Of Healing:lingering_potion:441:21:brewing_recipes/images/lingering_potion_healing.png
+Lingering Poion Of Healing:lingering_potion:441:22:brewing_recipes/images/lingering_potion_healing.png
+Lingering Poion Of Harming:lingering_potion:441:23:brewing_recipes/images/lingering_potion_harming.png
+Lingering Poion Of Harming:lingering_potion:441:24:brewing_recipes/images/lingering_potion_harming.png
+Lingering Poion Of Poison:lingering_potion:441:25:brewing_recipes/images/lingering_potion_poison.png
+Lingering Poion Of Poison:lingering_potion:441:26:brewing_recipes/images/lingering_potion_poison.png
+Lingering Poion Of Poison:lingering_potion:441:27:brewing_recipes/images/lingering_potion_poison.png
+Lingering Poion Of Regeneration:lingering_potion:441:28:brewing_recipes/images/lingering_potion_regeneration.png
+Lingering Poion Of Regeneration:lingering_potion:441:29:brewing_recipes/images/lingering_potion_regeneration.png
+Lingering Poion Of Regeneration:lingering_potion:441:30:brewing_recipes/images/lingering_potion_regeneration.png
+Lingering Poion Of Strength:lingering_potion:441:31:brewing_recipes/images/lingering_potion_strength.png
+Lingering Poion Of Strength:lingering_potion:441:32:brewing_recipes/images/lingering_potion_strength.png
+Lingering Poion Of Strength:lingering_potion:441:33:brewing_recipes/images/lingering_potion_strength.png
+Lingering Poion Of Weakness:lingering_potion:441:34:brewing_recipes/images/lingering_potion_weakness.png
+Lingering Poion Of Weakness:lingering_potion:441:35:brewing_recipes/images/lingering_potion_weakness.png
+Lingering Poion Of Decay:lingering_potion:441:36:brewing_recipes/images/lingering_potion_decay.png
+Lingering Poion Of The Turtle Master:lingering_potion:441:37:brewing_recipes/images/lingering_potion_turtle_master.png
+Lingering Poion Of The Turtle Master:lingering_potion:441:38:brewing_recipes/images/lingering_potion_turtle_master.png
+Lingering Poion Of The Turtle Master:lingering_potion:441:39:brewing_recipes/images/lingering_potion_turtle_master.png
+Lingering Poion Of Slow Falling:lingering_potion:441:40:brewing_recipes/images/lingering_potion_slow_falling.png
+Lingering Poion Of Slow Falling:lingering_potion:441:41:brewing_recipes/images/lingering_potion_slow_falling.png
+Jack o'Lantern:lit_pumpkin:91:0:block_recipes/images/jack_o_lantern.png
+Lodestone:lodestone:null:0:decoration_recipes/images/lodestone.png
+Oak Log:log:17:0:materials/images/oak_wood.png
+Spruce Log:log:17:1:materials/images/spruce_wood.png
+Birch Log:log:17:2:materials/images/birch_wood.png
+Jungle Log:log:17:3:materials/images/jungle_wood.png
+Acacia Log:log2:162:0:materials/images/acacia_wood.png
+Dark Oak Log:log2:162:1:materials/images/dark_oak_wood.png
+Loom:loom:null:0:basic_recipes/images/loom.png
+Magenta Glazed Terracotta:magenta_glazed_terracotta:237:0:decoration_recipes/images/magenta_glazed_terracotta.png
+Magma Block:magma:213:0:block_recipes/images/magma_block.png
+Magma Cream:magma_cream:378:0:brewing_recipes/images/magma_cream.png
+Melon Slice:melon:360:0:materials/images/melon.png
+Melon Block:melon_block:103:0:block_recipes/images/melon.png
+Melon Seeds:melon_seeds:362:0:food_recipes/images/melon_seeds.png
+Minecart:minecart:328:0:transportation_recipes/images/minecart.png
+Monster Spawner:mob_spawner:52:0:block_recipes/images/mob_spawner.png
+Infested Stone:monster_egg:97:0:decoration_recipes/images/stone_monster_egg.png
+Infested Cobblestone:monster_egg:97:1:decoration_recipes/images/cobblestone_monster_egg.png
+Infested Stone Bricks:monster_egg:97:2:decoration_recipes/images/stone_brick_monster_egg.png
+Infested Mossy Stone Bricks:monster_egg:97:3:decoration_recipes/images/mossy_stone_brick_monster_egg.png
+Infested Cracked Stone Bricks:monster_egg:97:4:decoration_recipes/images/cracked_stone_brick_monster_egg.png
+Infested Chiseled Stone Bricks:monster_egg:97:5:decoration_recipes/images/chiseled_stone_brick_monster_egg.png
+Mossy Cobblestone:mossy_cobblestone:48:0:block_recipes/images/moss_stone.png
+Mossy Cobblestone Stairs:mossy_cobblestone_stairs:null:0:block_recipes/images/mossy_cobblestone_stairs.png
+Mossy Stone Brick Stairs:mossy_stone_brick_stairs:null:0:block_recipes/images/mossy_stone_brick_stairs.png
+Mushroom Stew:mushroom_stew:282:0:food_recipes/images/mushroom_stew.png
+Cooked Mutton:muttoncooked:424:0:food_recipes/images/cooked_mutton.png
+Raw Mutton:muttonraw:423:0:food_recipes/images/raw_mutton.png
+Mycelium:mycelium:110:0:materials/images/mycelium.png
+Name Tag:name_tag:421:0:tool_recipes/images/name_tag.png
+Nautilus Shell:nautilus_shell:null:0:materials/images/nautilus_shell.png
+Nether Bricks:nether_brick:112:0:block_recipes/images/nether_brick.png
+Nether Brick Fence:nether_brick_fence:113:0:basic_recipes/images/nether_brick_fence.png
+Nether Brick Stairs:nether_brick_stairs:114:0:block_recipes/images/nether_brick_stairs.png
+Nether Gold Ore:nether_gold_ore:null:0:materials/images/nether_gold_ore.png
+Nether Sprouts:nether_sprouts:null:0:materials/images/nether_sprouts.png
+Nether Wart:nether_wart:372:0:materials/images/nether_wart.png
+Nether Wart Block:nether_wart_block:214:0:block_recipes/images/nether_wart_block.png
+Nether Brick:netherbrick:405:0:basic_recipes/images/nether_brick.png
+Netherite Axe:netherite_axe:null:0:tool_recipes/images/netherite_axe.png
+Block of Netherite:netherite_block:null:0:block_recipes/images/netherite_block.png
+Netherite Boots:netherite_boots:null:0:armor_recipes/images/netherite_boots.png
+Netherite Chestplate:netherite_chestplate:null:0:armor_recipes/images/netherite_chestplate.png
+Netherite Helmet:netherite_helmet:null:0:armor_recipes/images/netherite_helmet.png
+Netherite Hoe:netherite_hoe:null:0:tool_recipes/images/netherite_hoe.png
+Netherite Ingot:netherite_ingot:null:0:basic_recipes/images/netherite_ingot.png
+Netherite Leggings:netherite_leggings:null:0:armor_recipes/images/netherite_leggings.png
+Netherite Pickaxe:netherite_pickaxe:null:0:tool_recipes/images/netherite_pickaxe.png
+Netherite Scrap:netherite_scrap:null:0:basic_recipes/images/netherite_scrap.png
+Netherite Shovel:netherite_shovel:null:0:tool_recipes/images/netherite_shovel.png
+Netherite Sword:netherite_sword:null:0:weapon_recipes/images/netherite_sword.png
+Netherrack:netherrack:87:0:materials/images/netherrack.png
+Nether Star:netherstar:399:0:materials/images/nether_star.png
+Stone Stairs:normal_stone_stairs:null:0:block_recipes/images/stone_stairs.png
+Note Block:noteblock:25:0:decoration_recipes/images/note_block.png
+Oak Wood Stairs:oak_stairs:53:0:block_recipes/images/oak_wood_stairs.png
+Observer:observer:218:0:basic_recipes/images/observer.png
+Obsidian:obsidian:49:0:block_recipes/images/obsidian.png
+Orange Glazed Terracotta:orange_glazed_terracotta:236:0:decoration_recipes/images/orange_glazed_terracotta.png
+Packed Ice:packed_ice:174:0:block_recipes/images/packed_ice.png
+Painting:painting:321:0:decoration_recipes/images/painting.png
+Paper:paper:339:0:basic_recipes/images/paper.png
+Phantom Membrane:phantom_membrane:null:0:materials/images/phantom_membrane.png
+Pink Glazed Terracotta:pink_glazed_terracotta:241:0:decoration_recipes/images/pink_glazed_terracotta.png
+Piston:piston:33:0:mechanism_recipes/images/piston.png
+Oak Planks:planks:5:0:basic_recipes/images/oak_wood_plank.png
+Spruce Planks:planks:5:1:basic_recipes/images/spruce_wood_plank.png
+Birch Planks:planks:5:2:basic_recipes/images/birch_wood_plank.png
+Jungle Planks:planks:5:3:basic_recipes/images/jungle_wood_plank.png
+Acacia Planks:planks:5:4:basic_recipes/images/acacia_wood_plank.png
+Dark Oak Planks:planks:5:5:basic_recipes/images/dark_oak_wood_plank.png
+Podzol:podzol:3:0:materials/images/podzol.png
+Poisonous Potato:poisonous_potato:394:0:materials/images/poisonous_potato.png
+Polished Andesite Stairs:polished_andesite_stairs:null:0:block_recipes/images/polished_andesite_stairs.png
+Polished Basalt:polished_basalt:null:0:block_recipes/images/polished_basalt.png
+Polished Blackstone:polished_blackstone:null:0:block_recipes/images/polished_blackstone.png
+Polished Blackstone Brick Slab:polished_blackstone_brick_slab:null:0:block_recipes/images/polished_blackstone_brick_slab.png
+Polished Blackstone Brick Stairs:polished_blackstone_brick_stairs:null:0:block_recipes/images/polished_blackstone_brick_stairs.png
+Polished Blackstone Brick Wall:polished_blackstone_brick_wall:null:0:block_recipes/images/polished_blackstone_brick_wall.png
+Polished Blackstone Bricks:polished_blackstone_bricks:null:0:block_recipes/images/polished_blackstone_bricks.png
+Polished Blackstone Button:polished_blackstone_button:null:0:mechanism_recipes/images/polished_blackstone_button.png
+Polished Blackstone Pressure Plate:polished_blackstone_pressure_plate:null:0:mechanism_recipes/images/polished_blackstone_pressure_plate.png
+Polished Blackstone Slab:polished_blackstone_slab:null:0:block_recipes/images/polished_blackstone_slab.png
+Polished Blackstone Stairs:polished_blackstone_stairs:null:0:block_recipes/images/polished_blackstone_stairs.png
+Polished Blackstone Wall:polished_blackstone_wall:null:0:block_recipes/images/polished_blackstone_wall.png
+Polished Diorite Stairs:polished_diorite_stairs:null:0:block_recipes/images/polished_diorite_stairs.png
+Polished Granite Stairs:polished_granite_stairs:null:0:block_recipes/images/polished_granite_stairs.png
+Raw Porkchop:porkchop:319:0:food_recipes/images/raw_porkchop.png
+Potato:potato:392:0:materials/images/potato.png
+Water Bottle:potion:373:0:brewing_recipes/images/water_bottle.png
+Potion Of Night vision:potion:373:5:brewing_recipes/images/potion_night_vision.png
+Potion Of Night vision:potion:373:6:brewing_recipes/images/potion_night_vision.png
+Potion Of Invisibility:potion:373:7:brewing_recipes/images/potion_invisibility.png
+Potion Of Invisibility:potion:373:8:brewing_recipes/images/potion_invisibility.png
+Potion Of Leaping:potion:373:9:brewing_recipes/images/potion_leaping.png
+Potion Of Leaping:potion:373:10:brewing_recipes/images/potion_leaping.png
+Potion Of Leaping:potion:373:11:brewing_recipes/images/potion_leaping.png
+Potion Of Fire resistance:potion:373:12:brewing_recipes/images/potion_fire_resistance.png
+Potion Of Fire resistance:potion:373:13:brewing_recipes/images/potion_fire_resistance.png
+Potion Of Swiftness:potion:373:14:brewing_recipes/images/potion_swiftness.png
+Potion Of Swiftness:potion:373:15:brewing_recipes/images/potion_swiftness.png
+Potion Of Swiftness:potion:373:16:brewing_recipes/images/potion_swiftness.png
+Potion Of Slowness:potion:373:17:brewing_recipes/images/potion_slowness.png
+Potion Of Slowness:potion:373:18:brewing_recipes/images/potion_slowness.png
+Potion Of Water breathing:potion:373:19:brewing_recipes/images/potion_water_breathing.png
+Potion Of Water breathing:potion:373:20:brewing_recipes/images/potion_water_breathing.png
+Potion Of Healing:potion:373:21:brewing_recipes/images/potion_healing.png
+Potion Of Healing:potion:373:22:brewing_recipes/images/potion_healing.png
+Potion Of Harming:potion:373:23:brewing_recipes/images/potion_harming.png
+Potion Of Harming:potion:373:24:brewing_recipes/images/potion_harming.png
+Potion Of Poison:potion:373:25:brewing_recipes/images/potion_poison.png
+Potion Of Poison:potion:373:26:brewing_recipes/images/potion_poison.png
+Potion Of Poison:potion:373:27:brewing_recipes/images/potion_poison.png
+Potion Of Regeneration:potion:373:28:brewing_recipes/images/potion_regeneration.png
+Potion Of Regeneration:potion:373:29:brewing_recipes/images/potion_regeneration.png
+Potion Of Regeneration:potion:373:30:brewing_recipes/images/potion_regeneration.png
+Potion Of Strength:potion:373:31:brewing_recipes/images/potion_strength.png
+Potion Of Strength:potion:373:32:brewing_recipes/images/potion_strength.png
+Potion Of Strength:potion:373:33:brewing_recipes/images/potion_strength.png
+Potion Of Weakness:potion:373:34:brewing_recipes/images/potion_weakness.png
+Potion Of Weakness:potion:373:35:brewing_recipes/images/potion_weakness.png
+Potion Of Decay:potion:373:36:brewing_recipes/images/potion_decay.png
+Potion Of The Turtle Master:potion:373:37:brewing_recipes/images/potion_turtle_master.png
+Potion Of The Turtle Master:potion:373:38:brewing_recipes/images/potion_turtle_master.png
+Potion Of The Turtle Master:potion:373:39:brewing_recipes/images/potion_turtle_master.png
+Potion Of Slow Falling:potion:373:40:brewing_recipes/images/potion_slow_falling.png
+Potion Of Slow Falling:potion:373:41:brewing_recipes/images/potion_slow_falling.png
+Prismarine:prismarine:168:0:block_recipes/images/prismarine.png
+Dark Prismarine:prismarine:168:1:block_recipes/images/dark_prismarine.png
+Prismarine Bricks:prismarine:168:2:block_recipes/images/prismarine_bricks.png
+Prismarine Bricks Stairs:prismarine_bricks_stairs:null:0:block_recipes/images/prismarine_bricks_stairs.png
+Prismarine Crystals:prismarine_crystals:410:0:materials/images/prismarine_crystal.png
+Prismarine Shard:prismarine_shard:409:0:materials/images/prismarine_shard.png
+Prismarine Stairs:prismarine_stairs:null:0:block_recipes/images/prismarine_stairs.png
+Pufferfish:pufferfish:349:0:materials/images/pufferfish.png
+Pumpkin:pumpkin:86:0:materials/images/pumpkin.png
+Pumpkin Pie:pumpkin_pie:400:0:food_recipes/images/pumpkin_pie.png
+Pumpkin Seeds:pumpkin_seeds:361:0:food_recipes/images/pumpkin_seeds.png
+Purple Glazed Terracotta:purple_glazed_terracotta:245:0:decoration_recipes/images/purple_glazed_terracotta.png
+Purpur Block:purpur_block:201:0:block_recipes/images/purpur_block.png
+Purpur Pillar:purpur_block:201:2:block_recipes/images/purpur_pillar.png
+Purpur Stairs:purpur_stairs:203:0:block_recipes/images/purpur_stairs.png
+Nether Quartz:quartz:406:0:materials/images/nether_quartz.png
+Quartz Block:quartz_block:155:0:block_recipes/images/quartz_block.png
+Chiseled Quartz Block:quartz_block:155:1:block_recipes/images/chiseled_quartz_block.png
+Pillar Quartz Block:quartz_block:155:2:block_recipes/images/pillar_quartz_block.png
+Smooth Quartz:quartz_block:null:3:block_recipes/images/smooth_quartz.png
+Quartz Bricks:quartz_bricks:null:0:block_recipes/images/quartz_bricks.png
+Nether Quartz Ore:quartz_ore:153:0:materials/images/nether_quartz_ore.png
+Quartz Stairs:quartz_stairs:156:0:block_recipes/images/quartz_stairs.png
+Raw Rabbit:rabbit:411:0:food_recipes/images/raw_rabbit.png
+Rabbit's Foot:rabbit_foot:414:0:mobs/images/rabbits_foot.png
+Rabbit Hide:rabbit_hide:415:0:mobs/images/rabbit_hide.png
+Rabbit Stew:rabbit_stew:413:0:food_recipes/images/rabbit_stew.png
+Rails:rail:66:0:transportation_recipes/images/rails.png
+music disc:record_11:2266:0:decoration_recipes/images/music_disc_11.png
+music disc:record_13:2256:0:decoration_recipes/images/music_disc_13.png
+music disc:record_blocks:2258:0:decoration_recipes/images/music_disc_blocks.png
+music disc:record_cat:2257:0:decoration_recipes/images/music_disc_cat.png
+music disc:record_chirp:2259:0:decoration_recipes/images/music_disc_chirp.png
+music disc:record_far:2260:0:decoration_recipes/images/music_disc_far.png
+music disc:record_mall:2261:0:decoration_recipes/images/music_disc_mall.png
+music disc:record_mellohi:2262:0:decoration_recipes/images/music_disc_mellohi.png
+music disc:record_pigstep:null:0:decoration_recipes/images/music_disc_pigstep.png
+music disc:record_stal:2263:0:decoration_recipes/images/music_disc_stal.png
+music disc:record_strad:2264:0:decoration_recipes/images/music_disc_strad.png
+music disc:record_wait:2267:0:decoration_recipes/images/music_disc_wait.png
+music disc:record_ward:2265:0:decoration_recipes/images/music_disc_ward.png
+Poppy:red_flower:38:0:materials/images/poppy.png
+Blue Orchid:red_flower:38:1:materials/images/blue_orchid.png
+Allium:red_flower:38:2:materials/images/allium.png
+Azure Bluet:red_flower:38:3:materials/images/azure_bluet.png
+Red Tulip:red_flower:38:4:materials/images/red_tulip.png
+Orange Tulip:red_flower:38:5:materials/images/orange_tulip.png
+White Tulip:red_flower:38:6:materials/images/white_tulip.png
+Pink Tulip:red_flower:38:7:materials/images/pink_tulip.png
+Oxeye Daisy:red_flower:38:8:materials/images/oxeye_daisy.png
+Cornflower:red_flower:null:9:materials/images/cornflower.png
+Lily of the Valley:red_flower:null:10:materials/images/lily_of_the_valley.png
+Red Glazed Terracotta:red_glazed_terracotta:249:0:decoration_recipes/images/red_glazed_terracotta.png
+mushroom:red_mushroom:40:0:materials/images/mushroom_red.png
+Red Mushroom Block:red_mushroom_block:100:1:block_recipes/images/red_mushroom_block.png
+Red Nether Brick:red_nether_brick:215:0:block_recipes/images/red_nether_brick.png
+Red Nether Brick Stairs:red_nether_brick_stairs:null:0:block_recipes/images/red_nether_brick_stairs.png
+Red Sandstone:red_sandstone:179:0:block_recipes/images/red_sandstone.png
+Chiseled Red Sandstone:red_sandstone:179:1:block_recipes/images/chiseled_red_sandstone.png
+Cut Red Sandstone:red_sandstone:null:2:block_recipes/images/cut_red_sandstone.png
+Smooth Red Sandstone:red_sandstone:179:3:block_recipes/images/smooth_red_sandstone.png
+Red Sandstone Stairs:red_sandstone_stairs:180:0:block_recipes/images/red_sandstone_stairs.png
+Redstone Dust:redstone:331:0:materials/images/redstone.png
+Redstone Block:redstone_block:152:0:block_recipes/images/redstone_block.png
+Redstone Lamp:redstone_lamp:123:0:decoration_recipes/images/redstone_lamp.png
+Redstone Ore:redstone_ore:73:0:materials/images/redstone_ore.png
+Redstone Torch:redstone_torch:76:0:basic_recipes/images/redstone_torch.png
+Sugar Canes:reeds:338:0:materials/images/sugar_canes.png
+Redstone Repeater:repeater:356:0:mechanism_recipes/images/redstone_repeater.png
+Repeating Command Block:repeating_command_block:210:0:command_blocks/images/repeating_command_block.png
+Respawn Anchor:respawn_anchor:null:0:decoration_recipes/images/respawn_anchor.png
+Rotten Flesh:rotten_flesh:367:0:materials/images/rotten_flesh.png
+Saddle:saddle:329:0:transportation_recipes/images/saddle.png
+Raw Salmon:salmon:349:0:materials/images/raw_salmon.png
+Sand:sand:12:0:materials/images/sand.png
+Red Sand:sand:12:1:materials/images/red_sand.png
+Sandstone:sandstone:24:0:block_recipes/images/sandstone.png
+Chiseled Sandstone:sandstone:24:1:block_recipes/images/chiseled_sandstone.png
+Cut Sandstone:sandstone:null:2:block_recipes/images/cut_sandstone.png
+Smooth Sandstone:sandstone:24:3:block_recipes/images/smooth_sandstone.png
+Sandstone Stairs:sandstone_stairs:128:0:block_recipes/images/sandstone_stairs.png
+Oak Sapling:sapling:6:0:materials/images/oak_sapling.png
+Spruce Sapling:sapling:6:1:materials/images/spruce_sapling.png
+Birch Sapling:sapling:6:2:materials/images/birch_sapling.png
+Jungle Sapling:sapling:6:3:materials/images/jungle_sapling.png
+Acacia Sapling:sapling:6:4:materials/images/acacia_sapling.png
+Dark Oak Sapling:sapling:6:5:materials/images/dark_oak_sapling.png
+Scaffolding:scaffolding:null:0:decoration_recipes/images/scaffolding.png
+Sea Pickle:sea_pickle:null:0:materials/images/sea_pickle.png
+Seagrass:seagrass:null:0:materials/images/sea_grass.png
+Sea Lantern:sealantern:169:0:block_recipes/images/sea_lantern.png
+Shears:shears:359:0:tool_recipes/images/shears.png
+Shield:shield:null:0:armor_recipes/images/shield.png
+Shroomlight:shroomlight:null:0:materials/images/shroomlight.png
+White Shulker Box:shulker_box:229:0:decoration_recipes/images/white_shulker_box.png
+Orange Shulker Box:shulker_box:229:1:decoration_recipes/images/orange_shulker_box.png
+Magenta Shulker Box:shulker_box:229:2:decoration_recipes/images/magenta_shulker_box.png
+Light Blue Shulker Box:shulker_box:229:3:decoration_recipes/images/light_blue_shulker_box.png
+Yellow Shulker Box:shulker_box:229:4:decoration_recipes/images/yellow_shulker_box.png
+Lime Shulker Box:shulker_box:229:5:decoration_recipes/images/lime_shulker_box.png
+Pink Shulker Box:shulker_box:229:6:decoration_recipes/images/pink_shulker_box.png
+Gray Shulker Box:shulker_box:229:7:decoration_recipes/images/gray_shulker_box.png
+Light Gray Shulker Box:shulker_box:229:8:decoration_recipes/images/light_gray_shulker_box.png
+Cyan Shulker Box:shulker_box:229:9:decoration_recipes/images/cyan_shulker_box.png
+Purple Shulker Box:shulker_box:229:10:decoration_recipes/images/purple_shulker_box.png
+Blue Shulker Box:shulker_box:229:11:decoration_recipes/images/blue_shulker_box.png
+Brown Shulker Box:shulker_box:229:12:decoration_recipes/images/brown_shulker_box.png
+Green Shulker Box:shulker_box:229:13:decoration_recipes/images/green_shulker_box.png
+Red Shulker Box:shulker_box:229:14:decoration_recipes/images/red_shulker_box.png
+Black Shulker Box:shulker_box:229:15:decoration_recipes/images/black_shulker_box.png
+Shulker Shell:shulker_shell:450:0:materials/images/shulker_shell.png
+Oak Sign:sign:323:0:basic_recipes/images/sign.png
+Light Gray Glazed Terracotta:silver_glazed_terracotta:243:0:decoration_recipes/images/light_gray_glazed_terracotta.png
+Skeleton Skull:skull:397:0:materials/images/skeleton_skull.png
+Wither Skeleton Skull:skull:397:1:materials/images/wither_skeleton_skull.png
+Zombie Head:skull:397:2:materials/images/zombie_head.png
+Steve Head:skull:397:3:materials/images/head.png
+Creeper Head:skull:397:4:materials/images/creeper_head.png
+Dragon Head:skull:397:5:materials/images/dragon_head.png
+Slime Block:slime:165:0:decoration_recipes/images/slime_block.png
+Slimeball:slime_ball:341:0:materials/images/slimeball.png
+Smithing Table:smithing_table:null:0:basic_recipes/images/smithing_table.png
+Smoker:smoker:null:0:basic_recipes/images/smoker.png
+Smooth Quartz Stairs:smooth_quartz_stairs:null:0:block_recipes/images/smooth_quartz_stairs.png
+Smooth Red Sandstone Stairs:smooth_red_sandstone_stairs:null:0:block_recipes/images/smooth_red_sandstone_stairs.png
+Smooth Sandstone Stairs:smooth_sandstone_stairs:null:0:block_recipes/images/smooth_sandstone_stairs.png
+Smooth Stone:smooth_stone:null:0:block_recipes/images/smooth_stone.png
+Snow Block:snow:80:0:block_recipes/images/snow.png
+Snow:snow_layer:78:0:materials/images/snow.png
+Snowball:snowball:332:0:materials/images/snowball.png
+Soul Campfire:soul_campfire:null:0:decoration_recipes/images/soul_campfire.png
+Soul Lantern:soul_lantern:null:0:decoration_recipes/images/soul_fire_lantern.png
+Soul Sand:soul_sand:88:0:materials/images/soul_sand.png
+Soul Soil:soul_soil:null:0:materials/images/soul_soil.png
+Soul Torch:soul_torch:null:0:basic_recipes/images/soul_fire_torch.png
+Chicken Spawn Egg:spawn_egg:383:10:materials/images/spawn_chicken.png
+Cow Spawn Egg:spawn_egg:383:11:materials/images/spawn_cow.png
+Pig Spawn Egg:spawn_egg:383:12:materials/images/spawn_pig.png
+Sheep Spawn Egg:spawn_egg:383:13:materials/images/spawn_sheep.png
+Wolf Spawn Egg:spawn_egg:383:14:materials/images/spawn_wolf.png
+Villager Spawn Egg:spawn_egg:383:15:materials/images/spawn_villager.png
+Mooshroom Spawn Egg:spawn_egg:383:16:materials/images/spawn_mooshroom.png
+Squid Spawn Egg:spawn_egg:383:17:materials/images/spawn_squid.png
+Rabbit Spawn Egg:spawn_egg:383:18:materials/images/spawn_rabbit.png
+Bat Spawn Egg:spawn_egg:383:19:materials/images/spawn_bat.png
+Ocelot Spawn Egg:spawn_egg:383:22:materials/images/spawn_ocelot.png
+Horse Spawn Egg:spawn_egg:383:23:materials/images/spawn_horse.png
+Donkey Spawn Egg:spawn_egg:383:24:materials/images/spawn_donkey.png
+Mule Spawn Egg:spawn_egg:383:25:materials/images/spawn_mule.png
+Skeleton Horse Spawn Egg:spawn_egg:383:26:materials/images/spawn_skeleton_horse.png
+Zombie Horse Spawn Egg:spawn_egg:383:27:materials/images/spawn_zombie_horse.png
+Polar Bear Spawn Egg:spawn_egg:383:28:materials/images/spawn_polar_bear.png
+Llama Spawn Egg:spawn_egg:383:29:materials/images/spawn_llama.png
+Parrot Spawn Egg:spawn_egg:383:30:materials/images/spawn_parrot.png
+Dolphin Spawn Egg:spawn_egg:383:31:materials/images/spawn_dolphin.png
+Zombie Spawn Egg:spawn_egg:383:32:materials/images/spawn_zombie.png
+Creeper Spawn Egg:spawn_egg:383:33:materials/images/spawn_creeper.png
+Skeleton Spawn Egg:spawn_egg:383:34:materials/images/spawn_skeleton.png
+Spider Spawn Egg:spawn_egg:383:35:materials/images/spawn_spider.png
+Zombified Piglin Spawn Egg:spawn_egg:383:36:materials/images/spawn_zombie_pigman.png
+Slime Spawn Egg:spawn_egg:383:37:materials/images/spawn_slime.png
+Enderman Spawn Egg:spawn_egg:383:38:materials/images/spawn_enderman.png
+Silverfish Spawn Egg:spawn_egg:383:39:materials/images/spawn_silverfish.png
+Cave Spider Spawn Egg:spawn_egg:383:40:materials/images/spawn_cave_spider.png
+Ghast Spawn Egg:spawn_egg:383:41:materials/images/spawn_ghast.png
+Magma Cube Spawn Egg:spawn_egg:383:42:materials/images/spawn_magma_cube.png
+Blaze Spawn Egg:spawn_egg:383:43:materials/images/spawn_blaze.png
+Zombie Villager Spawn Egg:spawn_egg:383:44:materials/images/spawn_zombie_villager.png
+Witch Spawn Egg:spawn_egg:383:45:materials/images/spawn_witch.png
+Stray Spawn Egg:spawn_egg:383:46:materials/images/spawn_stray.png
+Husk Spawn Egg:spawn_egg:383:47:materials/images/spawn_husk.png
+Wither Skeleton Spawn Egg:spawn_egg:383:48:materials/images/spawn_wither_skeleton.png
+Guardian Spawn Egg:spawn_egg:383:49:materials/images/spawn_guardian.png
+Elder Guardian Spawn Egg:spawn_egg:383:50:materials/images/spawn_elder_guardian.png
+NPC Spawn Egg:spawn_egg:383:51:materials/images/spawn_npc.png
+Shulker Spawn Egg:spawn_egg:383:54:materials/images/spawn_shulker.png
+Endermite Spawn Egg:spawn_egg:383:55:materials/images/spawn_endermite.png
+Vindicator Spawn Egg:spawn_egg:383:57:materials/images/spawn_vindicator.png
+Phantom Spawn Egg:spawn_egg:383:58:materials/images/spawn_phantom.png
+Ravager Spawn Egg:spawn_egg:383:59:materials/images/spawn_illager_beast.png
+Turtle Spawn Egg:spawn_egg:383:74:materials/images/spawn_turtle.png
+Cat Spawn Egg:spawn_egg:383:75:materials/images/spawn_cat.png
+Evoker Spawn Egg:spawn_egg:383:104:materials/images/spawn_evoker.png
+Vex Spawn Egg:spawn_egg:383:105:materials/images/spawn_vex.png
+Pufferfish Spawn Egg:spawn_egg:383:108:materials/images/spawn_pufferfish.png
+Salmon Spawn Egg:spawn_egg:383:109:materials/images/spawn_salmon.png
+Drowned Spawn Egg:spawn_egg:383:110:materials/images/spawn_drowned.png
+Tropical Fish Spawn Egg:spawn_egg:383:111:materials/images/spawn_tropical_fish.png
+Cod Spawn Egg:spawn_egg:383:112:materials/images/spawn_cod.png
+Panda Spawn Egg:spawn_egg:383:113:materials/images/spawn_panda.png
+Pillager Spawn Egg:spawn_egg:383:114:materials/images/spawn_pillager.png
+Wandering Trader Spawn Egg:spawn_egg:383:118:materials/images/spawn_wandering_trader.png
+Fox Spawn Egg:spawn_egg:383:121:materials/images/spawn_fox.png
+Bee Spawn Egg:spawn_egg:383:122:materials/images/spawn_bee.png
+Piglin Spawn Egg:spawn_egg:383:123:materials/images/spawn_piglin.png
+Hoglin Spawn Egg:spawn_egg:383:124:materials/images/spawn_hoglin.png
+Strider Spawn Egg:spawn_egg:383:125:materials/images/spawn_strider.png
+Zoglin Spawn Egg:spawn_egg:383:126:materials/images/spawn_zoglin.png
+Spawn Piglin Brute:spawn_egg:383:127:materials/images/spawn_piglin_brute.png
+Glistering Melon:speckled_melon:382:0:brewing_recipes/images/glistering_melon.png
+Spider Eye:spider_eye:375:0:materials/images/spider_eye.png
+Splash Potion Of Night vision:splash_potion:438:5:brewing_recipes/images/splash_potion_night_vision.png
+Splash Potion Of Night vision:splash_potion:438:6:brewing_recipes/images/splash_potion_night_vision.png
+Splash Potion Of Invisibility:splash_potion:438:7:brewing_recipes/images/splash_potion_invisibility.png
+Splash Potion Of Invisibility:splash_potion:438:8:brewing_recipes/images/splash_potion_invisibility.png
+Splash Potion Of Leaping:splash_potion:438:9:brewing_recipes/images/splash_potion_leaping.png
+Splash Potion Of Leaping:splash_potion:438:10:brewing_recipes/images/splash_potion_leaping.png
+Splash Potion Of Leaping:splash_potion:438:11:brewing_recipes/images/splash_potion_leaping.png
+Splash Potion Of Fire resistance:splash_potion:438:12:brewing_recipes/images/splash_potion_fire_resistance.png
+Splash Potion Of Fire resistance:splash_potion:438:13:brewing_recipes/images/splash_potion_fire_resistance.png
+Splash Potion Of Swiftness:splash_potion:438:14:brewing_recipes/images/splash_potion_swiftness.png
+Splash Potion Of Swiftness:splash_potion:438:15:brewing_recipes/images/splash_potion_swiftness.png
+Splash Potion Of Swiftness:splash_potion:438:16:brewing_recipes/images/splash_potion_swiftness.png
+Splash Potion Of Slowness:splash_potion:438:17:brewing_recipes/images/splash_potion_slowness.png
+Splash Potion Of Slowness:splash_potion:438:18:brewing_recipes/images/splash_potion_slowness.png
+Splash Potion Of Water breathing:splash_potion:438:19:brewing_recipes/images/splash_potion_water_breathing.png
+Splash Potion Of Water breathing:splash_potion:438:20:brewing_recipes/images/splash_potion_water_breathing.png
+Splash Potion Of Healing:splash_potion:438:21:brewing_recipes/images/splash_potion_healing.png
+Splash Potion Of Healing:splash_potion:438:22:brewing_recipes/images/splash_potion_healing.png
+Splash Potion Of Harming:splash_potion:438:23:brewing_recipes/images/splash_potion_harming.png
+Splash Potion Of Harming:splash_potion:438:24:brewing_recipes/images/splash_potion_harming.png
+Splash Potion Of Poison:splash_potion:438:25:brewing_recipes/images/splash_potion_poison.png
+Splash Potion Of Poison:splash_potion:438:26:brewing_recipes/images/splash_potion_poison.png
+Splash Potion Of Poison:splash_potion:438:27:brewing_recipes/images/splash_potion_poison.png
+Splash Potion Of Regeneration:splash_potion:438:28:brewing_recipes/images/splash_potion_regeneration.png
+Splash Potion Of Regeneration:splash_potion:438:29:brewing_recipes/images/splash_potion_regeneration.png
+Splash Potion Of Regeneration:splash_potion:438:30:brewing_recipes/images/splash_potion_regeneration.png
+Splash Potion Of Strength:splash_potion:438:31:brewing_recipes/images/splash_potion_strength.png
+Splash Potion Of Strength:splash_potion:438:32:brewing_recipes/images/splash_potion_strength.png
+Splash Potion Of Strength:splash_potion:438:33:brewing_recipes/images/splash_potion_strength.png
+Splash Potion Of Weakness:splash_potion:438:34:brewing_recipes/images/splash_potion_weakness.png
+Splash Potion Of Weakness:splash_potion:438:35:brewing_recipes/images/splash_potion_weakness.png
+Splash Potion Of Decay:splash_potion:438:36:brewing_recipes/images/splash_potion_decay.png
+Splash Potion Of The Turtle Master:splash_potion:438:37:brewing_recipes/images/splash_potion_turtle_master.png
+Splash Potion Of The Turtle Master:splash_potion:438:38:brewing_recipes/images/splash_potion_turtle_master.png
+Splash Potion Of The Turtle Master:splash_potion:438:39:brewing_recipes/images/splash_potion_turtle_master.png
+Splash Potion Of Slow Falling:splash_potion:438:40:brewing_recipes/images/splash_potion_slow_falling.png
+Splash Potion Of Slow Falling:splash_potion:438:41:brewing_recipes/images/splash_potion_slow_falling.png
+Sponge:sponge:19:0:block_recipes/images/sponge.png
+Wet Sponge:sponge:19:1:materials/images/wet_sponge.png
+Spruce Button:spruce_button:null:0:mechanism_recipes/images/spruce_button.png
+Spruce Door:spruce_door:427:0:mechanism_recipes/images/spruce_door.png
+Spruce Fence Gate:spruce_fence_gate:183:0:basic_recipes/images/spruce_fence_gate.png
+Spruce Pressure Plate:spruce_pressure_plate:null:0:mechanism_recipes/images/spruce_pressure_plate.png
+Spruce Sign:spruce_sign:null:0:basic_recipes/images/spruce_sign.png
+Spruce Wood Stairs:spruce_stairs:134:0:block_recipes/images/spruce_wood_stairs.png
+Spruce Trapdoor:spruce_trapdoor:null:0:mechanism_recipes/images/spruce_trapdoor.png
+White Stained Glass:stained_glass:95:0:block_recipes/images/white_stained_glass.png
+Orange Stained Glass:stained_glass:95:1:block_recipes/images/orange_stained_glass.png
+Magenta Stained Glass:stained_glass:95:2:block_recipes/images/magenta_stained_glass.png
+Light Blue Stained Glass:stained_glass:95:3:block_recipes/images/light_blue_stained_glass.png
+Yellow Stained Glass:stained_glass:95:4:block_recipes/images/yellow_stained_glass.png
+Lime Stained Glass:stained_glass:95:5:block_recipes/images/lime_stained_glass.png
+Pink Stained Glass:stained_glass:95:6:block_recipes/images/pink_stained_glass.png
+Gray Stained Glass:stained_glass:95:7:block_recipes/images/gray_stained_glass.png
+Light Gray Stained Glass:stained_glass:95:8:block_recipes/images/light_gray_stained_glass.png
+Cyan Stained Glass:stained_glass:95:9:block_recipes/images/cyan_stained_glass.png
+Purple Stained Glass:stained_glass:95:10:block_recipes/images/purple_stained_glass.png
+Blue Stained Glass:stained_glass:95:11:block_recipes/images/blue_stained_glass.png
+Brown Stained Glass:stained_glass:95:12:block_recipes/images/brown_stained_glass.png
+Green Stained Glass:stained_glass:95:13:block_recipes/images/green_stained_glass.png
+Red Stained Glass:stained_glass:95:14:block_recipes/images/red_stained_glass.png
+Black Stained Glass:stained_glass:95:15:block_recipes/images/black_stained_glass.png
+White Stained Glass Pane:stained_glass_pane:160:0:decoration_recipes/images/white_stained_glass_pane.png
+Orange Stained Glass Pane:stained_glass_pane:160:1:decoration_recipes/images/orange_stained_glass_pane.png
+Magenta Stained Glass Pane:stained_glass_pane:160:2:decoration_recipes/images/magenta_stained_glass_pane.png
+Light Blue Stained Glass Pane:stained_glass_pane:160:3:decoration_recipes/images/light_blue_stained_glass_pane.png
+Yellow Stained Glass Pane:stained_glass_pane:160:4:decoration_recipes/images/yellow_stained_glass_pane.png
+Lime Stained Glass Pane:stained_glass_pane:160:5:decoration_recipes/images/lime_stained_glass_pane.png
+Pink Stained Glass Pane:stained_glass_pane:160:6:decoration_recipes/images/pink_stained_glass_pane.png
+Gray Stained Glass Pane:stained_glass_pane:160:7:decoration_recipes/images/gray_stained_glass_pane.png
+Light Gray Stained Glass Pane:stained_glass_pane:160:8:decoration_recipes/images/light_gray_stained_glass_pane.png
+Cyan Stained Glass Pane:stained_glass_pane:160:9:decoration_recipes/images/cyan_stained_glass_pane.png
+Purple Stained Glass Pane:stained_glass_pane:160:10:decoration_recipes/images/purple_stained_glass_pane.png
+Blue Stained Glass Pane:stained_glass_pane:160:11:decoration_recipes/images/blue_stained_glass_pane.png
+Brown Stained Glass Pane:stained_glass_pane:160:12:decoration_recipes/images/brown_stained_glass_pane.png
+Green Stained Glass Pane:stained_glass_pane:160:13:decoration_recipes/images/green_stained_glass_pane.png
+Red Stained Glass Pane:stained_glass_pane:160:14:decoration_recipes/images/red_stained_glass_pane.png
+Black Stained Glass Pane:stained_glass_pane:160:15:decoration_recipes/images/black_stained_glass_pane.png
+White Terracotta:stained_hardened_clay:159:0:block_recipes/images/white_stained_clay.png
+Orange Terracotta:stained_hardened_clay:159:1:block_recipes/images/orange_stained_clay.png
+Magenta Terracotta:stained_hardened_clay:159:2:block_recipes/images/magenta_stained_clay.png
+Light Blue Terracotta:stained_hardened_clay:159:3:block_recipes/images/light_blue_stained_clay.png
+Yellow Terracotta:stained_hardened_clay:159:4:block_recipes/images/yellow_stained_clay.png
+Lime Terracotta:stained_hardened_clay:159:5:block_recipes/images/lime_stained_clay.png
+Pink Terracotta:stained_hardened_clay:159:6:block_recipes/images/pink_stained_clay.png
+Gray Terracotta:stained_hardened_clay:159:7:block_recipes/images/gray_stained_clay.png
+Light Gray Terracotta:stained_hardened_clay:159:8:block_recipes/images/light_gray_stained_clay.png
+Cyan Terracotta:stained_hardened_clay:159:9:block_recipes/images/cyan_stained_clay.png
+Purple Terracotta:stained_hardened_clay:159:10:block_recipes/images/purple_stained_clay.png
+Blue Terracotta:stained_hardened_clay:159:11:block_recipes/images/blue_stained_clay.png
+Brown Terracotta:stained_hardened_clay:159:12:block_recipes/images/brown_stained_clay.png
+Green Terracotta:stained_hardened_clay:159:13:block_recipes/images/green_stained_clay.png
+Red Terracotta:stained_hardened_clay:159:14:block_recipes/images/red_stained_clay.png
+Black Terracotta:stained_hardened_clay:159:15:block_recipes/images/black_stained_clay.png
+Stick:stick:280:0:basic_recipes/images/stick.png
+Sticky Piston:sticky_piston:29:0:mechanism_recipes/images/sticky_piston.png
+Stone:stone:1:0:block_recipes/images/stone.png
+Granite:stone:1:1:materials/images/granite.png
+Polished Granite:stone:1:2:block_recipes/images/polished_granite.png
+Diorite:stone:1:3:materials/images/diorite.png
+Polished Diorite:stone:1:4:block_recipes/images/polished_diorite.png
+Andesite:stone:1:5:materials/images/andesite.png
+Polished Andesite:stone:1:6:block_recipes/images/polished_andesite.png
+Stone Axe:stone_axe:275:0:tool_recipes/images/stone_axe.png
+Stone Brick Stairs:stone_brick_stairs:109:0:block_recipes/images/stone_brick_stairs.png
+Stone Button:stone_button:77:0:mechanism_recipes/images/button_stone.png
+Stone Hoe:stone_hoe:291:0:tool_recipes/images/stone_hoe.png
+Stone Pickaxe:stone_pickaxe:274:0:tool_recipes/images/stone_pickaxe.png
+Stone Pressure Plate:stone_pressure_plate:70:0:mechanism_recipes/images/stone_pressure_plate.png
+Stone Shovel:stone_shovel:273:0:tool_recipes/images/stone_shovel.png
+Stone Slab:stone_slab:44:0:block_recipes/images/stone_slab.png
+Sandstone Slab:stone_slab:44:1:block_recipes/images/sandstone_slab.png
+Cobblestone Slab:stone_slab:44:3:block_recipes/images/cobblestone_slab.png
+Brick Slab:stone_slab:44:4:block_recipes/images/bricks_slab.png
+Stone Brick Slab:stone_slab:44:5:block_recipes/images/stone_bricks_slab.png
+Quartz Slab:stone_slab:44:6:block_recipes/images/quartz_slab.png
+Nether Brick Slab:stone_slab:44:7:block_recipes/images/nether_brick_slab.png
+Smooth Stone Slab:stone_slab:null:8:block_recipes/images/smooth_stone_slab.png
+Red Sandstone Slab:stone_slab2:182:0:block_recipes/images/red_sandstone_slab.png
+Purpur Slab:stone_slab2:182:1:block_recipes/images/purpur_slab.png
+Prismarine Slab:stone_slab2:182:2:block_recipes/images/prismarine_slab.png
+Dark Prismarine Slab:stone_slab2:182:3:block_recipes/images/dark_prismarine_slab.png
+Prismarine Brick Slab:stone_slab2:182:4:block_recipes/images/prismarine_bricks_slab.png
+Mossy Cobblestone Slab:stone_slab2:null:5:block_recipes/images/mossy_cobblestone_slab.png
+Smooth Sandstone Slab:stone_slab2:null:6:block_recipes/images/smooth_sandstone_slab.png
+Red Nether Brick Slab:stone_slab2:null:7:block_recipes/images/red_nether_brick_slab.png
+End Stone Brick Slab:stone_slab3:null:0:block_recipes/images/end_stone_brick_slab.png
+Smooth Red Sandstone Slab:stone_slab3:null:1:block_recipes/images/smooth_red_sandstone_slab.png
+Polished Andesite Slab:stone_slab3:null:2:block_recipes/images/polished_andesite_slab.png
+Andesite Slab:stone_slab3:null:3:block_recipes/images/andesite_slab.png
+Diorite Slab:stone_slab3:null:4:block_recipes/images/diorite_slab.png
+Polished Diorite Slab:stone_slab3:null:5:block_recipes/images/polished_diorite_slab.png
+Granite Slab:stone_slab3:null:6:block_recipes/images/granite_slab.png
+Polished Granite Slab:stone_slab3:null:7:block_recipes/images/polished_granite_slab.png
+Mossy Stone Brick Slab:stone_slab4:null:0:block_recipes/images/mossy_stone_brick_slab.png
+Smooth Quartz Slab:stone_slab4:null:1:block_recipes/images/smooth_quartz_slab.png
+Cut Sandstone Slab:stone_slab4:null:3:block_recipes/images/cut_sandstone_slab.png
+Cut Red Sandstone Slab:stone_slab4:null:4:block_recipes/images/cut_red_sandstone_slab.png
+Cobblestone Stairs:stone_stairs:67:0:block_recipes/images/cobblestone_stairs.png
+Stone Sword:stone_sword:272:0:weapon_recipes/images/stone_sword.png
+Stone Bricks:stonebrick:98:0:block_recipes/images/stone_bricks.png
+Mossy Stone Bricks:stonebrick:98:1:block_recipes/images/mossy_stone_bricks.png
+Cracked Stone Bricks:stonebrick:98:2:block_recipes/images/cracked_stone_bricks.png
+Chiseled Stone Bricks:stonebrick:98:3:block_recipes/images/chiseled_stone_bricks.png
+Stonecutter:stonecutter_block:null:0:basic_recipes/images/stonecutter.png
+String:string:287:0:materials/images/string.png
+Stripped Acacia Log:stripped_acacia_log:null:0:block_recipes/images/stripped_acacia_log.png
+Stripped Birch Log:stripped_birch_log:null:0:block_recipes/images/stripped_birch_log.png
+Stripped Crimson Hyphae:stripped_crimson_hyphae:null:0:block_recipes/images/stripped_crimson_hyphae.png
+Stripped Crimson Stem:stripped_crimson_stem:null:0:materials/images/stripped_crimson_stem.png
+Stripped Dark Oak Log:stripped_dark_oak_log:null:0:block_recipes/images/stripped_dark_oak_log.png
+Stripped Jungle Log:stripped_jungle_log:null:0:block_recipes/images/stripped_jungle_log.png
+Stripped Oak Log:stripped_oak_log:null:0:block_recipes/images/stripped_oak_log.png
+Stripped Spruce Log:stripped_spruce_log:null:0:block_recipes/images/stripped_spruce_log.png
+Stripped Warped Hyphae:stripped_warped_hyphae:null:0:block_recipes/images/stripped_warped_hyphae.png
+Stripped Warped Stem:stripped_warped_stem:null:0:materials/images/stripped_warped_stem.png
+Structure Block:structure_block:null:0:basic_recipes/images/structure_block.png
+Sugar:sugar:353:0:food_recipes/images/sugar.png
+Suspicious Stew:suspicious_stew:null:0:food_recipes/images/suspicious_stew.png
+Sweet Berries:sweet_berries:null:0:materials/images/sweet_berries.png
+Grass:tallgrass:31:1:materials/images/grass.png
+Fern:tallgrass:31:2:materials/images/fern.png
+Target:target:null:0:block_recipes/images/target.png
+TNT:tnt:46:0:block_recipes/images/tnt.png
+Minecart with TNT:tnt_minecart:407:0:transportation_recipes/images/minecart_with_tnt.png
+Torch:torch:50:0:basic_recipes/images/torch.png
+Totem of Undying:totem:449:0:armor_recipes/images/totem_undying.png
+Oak Trapdoor:trapdoor:96:0:mechanism_recipes/images/trapdoor.png
+Trapped Chest:trapped_chest:146:0:basic_recipes/images/trapped_chest.png
+Trident:trident:null:0:weapon_recipes/images/trident.png
+Tripwire Hook:tripwire_hook:131:0:mechanism_recipes/images/tripwire_hook.png
+Turtle Egg:turtle_egg:null:0:materials/images/turtle_egg.png
+Turtle Shell:turtle_helmet:null:0:armor_recipes/images/turtle_shell.png
+Scute:turtle_shell_piece:null:0:materials/images/scute.png
+Twisting Vines:twisting_vines:null:0:materials/images/twisting_vines.png
+Shulker Box:undyed_shulker_box:null:0:decoration_recipes/images/shulker_box.png
+Vines:vine:106:0:materials/images/vines.png
+Warped Button:warped_button:null:0:mechanism_recipes/images/warped_button.png
+Warped Door:warped_door:null:0:mechanism_recipes/images/warped_door.png
+Warped Fence:warped_fence:null:0:basic_recipes/images/warped_fence.png
+Warped Fence Gate:warped_fence_gate:null:0:basic_recipes/images/warped_fence_gate.png
+Warped Fungus:warped_fungus:null:0:materials/images/warped_fungi.png
+Warped Fungus on a Stick:warped_fungus_on_a_stick:null:0:transportation_recipes/images/warped_fungus_on_stick.png
+Warped Hyphae:warped_hyphae:null:0:block_recipes/images/warped_hyphae.png
+Warped Nylium:warped_nylium:null:0:materials/images/warped_nylium.png
+Warped Planks:warped_planks:null:0:basic_recipes/images/warped_planks.png
+Warped Pressure Plate:warped_pressure_plate:null:0:mechanism_recipes/images/warped_pressure_plate.png
+Warped Roots:warped_roots:null:0:materials/images/warped_roots.png
+Warped Sign:warped_sign:null:0:basic_recipes/images/warped_sign.png
+Warped Slab:warped_slab:null:0:block_recipes/images/warped_slab.png
+Warped Stairs:warped_stairs:null:0:block_recipes/images/warped_stairs.png
+Warped Stem:warped_stem:null:0:materials/images/warped_stem.png
+Warped Trapdoor:warped_trapdoor:null:0:mechanism_recipes/images/warped_trapdoor.png
+Warped Wart Block:warped_wart_block:null:0:materials/images/warped_wart_block.png
+Water:water:null:0:materials/images/water.png
+Lily Pad:waterlily:111:0:materials/images/lily_pad.png
+Cobweb:web:30:0:materials/images/cobweb.png
+Weeping Vines:weeping_vines:null:0:materials/images/weeping_vines.png
+Wheat:wheat:296:0:materials/images/wheat.png
+Seeds:wheat_seeds:295:0:materials/images/seeds.png
+White Glazed Terracotta:white_glazed_terracotta:235:0:decoration_recipes/images/white_glazed_terracotta.png
+Wither Rose:wither_rose:null:0:materials/images/wither_rose.png
+Oak Wood with Bark:wood:null:0:block_recipes/images/oak_bark.png
+Spruce Wood with Bark:wood:null:1:block_recipes/images/spruce_bark.png
+Birch Wood with Bark:wood:null:2:block_recipes/images/birch_bark.png
+Jungle Wood with Bark:wood:null:3:block_recipes/images/jungle_bark.png
+Acacia Wood with Bark:wood:null:4:block_recipes/images/acacia_bark.png
+Dark Oak Wood with Bark:wood:null:5:block_recipes/images/dark_oak_bark.png
+Stripped Oak Wood:wood:null:8:block_recipes/images/stripped_oak_wood.png
+Stripped Spruce Wood:wood:null:9:block_recipes/images/stripped_spruce_wood.png
+Stripped Birch Wood:wood:null:10:block_recipes/images/stripped_birch_wood.png
+Stripped Jungle Wood:wood:null:11:block_recipes/images/stripped_jungle_wood.png
+Stripped Acacia Wood:wood:null:12:block_recipes/images/stripped_acacia_wood.png
+Stripped Dark Oak Wood:wood:null:13:block_recipes/images/stripped_dark_oak_wood.png
+Wooden Axe:wooden_axe:271:0:tool_recipes/images/wooden_axe.png
+Oak Button:wooden_button:143:0:mechanism_recipes/images/button.png
+Oak Door:wooden_door:324:0:mechanism_recipes/images/oak_door.png
+Wooden Hoe:wooden_hoe:290:0:tool_recipes/images/wooden_hoe.png
+Wooden Pickaxe:wooden_pickaxe:270:0:tool_recipes/images/wooden_pickaxe.png
+Oak Pressure Plate:wooden_pressure_plate:72:0:mechanism_recipes/images/wooden_pressure_plate.png
+Wooden Shovel:wooden_shovel:269:0:tool_recipes/images/wooden_shovel.png
+Oak Wood Slab:wooden_slab:126:0:block_recipes/images/oak_wood_slab.png
+Spruce Wood Slab:wooden_slab:126:1:block_recipes/images/spruce_wood_slab.png
+Birch Wood Slab:wooden_slab:126:2:block_recipes/images/birch_wood_slab.png
+Jungle Wood Slab:wooden_slab:126:3:block_recipes/images/jungle_wood_slab.png
+Acacia Wood Slab:wooden_slab:126:4:block_recipes/images/acacia_wood_slab.png
+Dark Oak Wood Slab:wooden_slab:126:5:block_recipes/images/dark_oak_wood_slab.png
+Wooden Sword:wooden_sword:268:0:weapon_recipes/images/wooden_sword.png
+White Wool:wool:35:0:block_recipes/images/wool.png
+Orange Wool:wool:35:1:block_recipes/images/orange_wool.png
+Magenta Wool:wool:35:2:block_recipes/images/magenta_wool.png
+Light Blue Wool:wool:35:3:block_recipes/images/light_blue_wool.png
+Yellow Wool:wool:35:4:block_recipes/images/yellow_wool.png
+Lime Wool:wool:35:5:block_recipes/images/lime_wool.png
+Pink Wool:wool:35:6:block_recipes/images/pink_wool.png
+Gray Wool:wool:35:7:block_recipes/images/gray_wool.png
+Light Gray Wool:wool:35:8:block_recipes/images/light_gray_wool.png
+Cyan Wool:wool:35:9:block_recipes/images/cyan_wool.png
+Purple Wool:wool:35:10:block_recipes/images/purple_wool.png
+Blue Wool:wool:35:11:block_recipes/images/blue_wool.png
+Brown Wool:wool:35:12:block_recipes/images/brown_wool.png
+Green Wool:wool:35:13:block_recipes/images/green_wool.png
+Red Wool:wool:35:14:block_recipes/images/red_wool.png
+Black Wool:wool:35:15:block_recipes/images/black_wool.png
+Book and Quill:writable_book:386:0:basic_recipes/images/book_quill.png
+Written Book:written_book:387:0:basic_recipes/images/written_book.png
+Dandelion:yellow_flower:37:0:materials/images/dandelion.png
+Yellow Glazed Terracotta:yellow_glazed_terracotta:239:0:decoration_recipes/images/yellow_glazed_terracotta.png
